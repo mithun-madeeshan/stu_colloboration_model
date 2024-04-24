@@ -1,0 +1,1001 @@
+StudentID,Student_Name,Have_Speaking_Skill?,Have_Leadership_Skill?,Average_Extracurricular_Activity_Marks,Average_Subject_Marks,Average_Group_Work_Marks,Favourite_Sports,Favourite_Hobby,Have_Presentation_Skill?,Gender,Friends,Favourite_Subject,Is_Social?,Average_Teacher_Rating_For_Group_Works
+1,Gaurav Patel,No,No,51.49,70.64,70.21,"['Basketball', 'Rugby']",Writing,Yes,Male,"Naveen, Singh, Mehta",Maths,Yes,3.7
+2,Naveen Sharma,No,Yes,71.52,82.97,72.89,"['Basketball', 'Rugby']",Painting,No,Female,"Rao, Kavya, Verma",English,No,3.8
+3,Aakash Mehta,Yes,No,61.08,65.53,74.37,"['Rugby', 'Basketball']",Playing guitar,Yes,Female,Sunil,History,No,4.1
+4,Neha Patel,No,Yes,60.93,76.42,69.77,['Swimming'],Gardening,No,Male,"Aditya, Nalini",History,Yes,4.2
+5,Gaurav Kaur,No,No,59.84,77.28,55.97,"['Swimming', 'Tennis']",Cooking,No,Male,"Sejal, Kapoor, Gamage",History,No,2.5
+6,Priyanka Singh,Yes,No,59.25,73.07,59.39,['Basketball'],Cooking,No,Female,"Amara, Mehta",Maths,No,3.2
+7,Arjun Patel,Yes,No,58.52,80.92,72.49,['Football'],Cooking,Yes,Female,Simran,Art,Yes,3.5
+8,Karan Sharma,No,No,57.41,73.79,51.35,['Basketball'],Writing,No,Female,"Riya, Singh",English,Yes,3.1
+9,Priyanka Desai,Yes,Yes,73.8,68.54,52.9,"['Volleyball', 'Cricket']",Dancing,No,Male,Reena,Maths,No,5
+10,Naveen Rao,No,Yes,56.27,72.73,58.59,['Rugby'],Photography,Yes,Male,"Singh, Desai",Maths,Yes,3.9
+11,Anushka Fernando,No,No,50.24,82.49,52.02,['Cricket'],Painting,No,Male,"Singh, Singh",Art,No,3
+12,Dev Desai,Yes,Yes,64.58,82.96,50.48,"['Football', 'Tennis']",Music,No,Male,Kavya,Science,Yes,3.4
+13,Anjali Sharma,Yes,Yes,62.68,75.98,69.71,"['Netball', 'Basketball']",Cooking,No,Female,Mehta,Art,Yes,4.1
+14,Kavya Gamage,No,No,50.67,80.07,71.5,['Tennis'],Photography,Yes,Male,Mehta,History,Yes,2.7
+15,Arun Desai,Yes,Yes,54.62,83.76,52.96,"['Netball', 'Swimming']",Dancing,Yes,Female,Kasun,English,Yes,3.4
+16,Dev Patel,Yes,Yes,68.74,73.28,60.67,['Netball'],Gardening,Yes,Female,Kularatne,Science,No,4.5
+17,Rohit Kapoor,Yes,Yes,50.42,67.1,54.41,['Football'],Music,Yes,Male,"Aman, Mehta, Nalini",Science,No,3.4
+18,Nimesh Kapoor,No,Yes,51.6,68.06,72.03,"['Football', 'Rugby']",Gardening,Yes,Male,"Arjun, Raj",History,No,4.9
+19,Dasun Patel,No,Yes,52.97,76.56,66.72,['Rugby'],Cooking,Yes,Male,"Aakash, Sanjana",Maths,Yes,3.6
+20,Riya Rao,No,Yes,51.86,67.89,51.98,"['Football', 'Cricket']",Playing guitar,No,Female,Kularatne,Art,Yes,3.3
+21,Rahul Raj,No,Yes,52.21,72.64,64.15,"['Basketball', 'Football']",Dancing,No,Female,Riya,Science,No,4
+22,Riya Rana,No,No,65.88,71.43,65.58,['Basketball'],Photography,No,Male,"Verma, Dasun, Kaur",Science,No,4.2
+23,Pooja Ariyarathna,No,Yes,55.93,78.12,60.39,"['Tennis', 'Netball']",Dancing,No,Male,"Raj, Sharma",Maths,No,3.2
+24,Nalini Verma,Yes,No,68.35,67.27,58.35,['Swimming'],Cooking,Yes,Male,"Arjun, Shreya",English,No,3
+25,Rohit Sharma,Yes,No,69.86,75.55,50.43,"['Netball', 'Rugby']",Playing guitar,Yes,Male,Kapoor,Science,Yes,4.5
+26,Sunil Sharma,Yes,No,55.81,72.68,63.01,"['Netball', 'Tennis']",Photography,No,Male,Arun,English,Yes,4.2
+27,Priyanka Raj,No,Yes,52.69,84.54,74.86,['Football'],Painting,Yes,Male,"Simran, Perera, Singh",Art,Yes,3.9
+28,Sneha Patel,Yes,No,61.38,75.53,73.5,"['Swimming', 'Football']",Music,No,Female,"Vikram, Shreya, Karan",History,No,4.8
+29,Neha Kularatne,Yes,No,59.36,78.95,55.98,['Cricket'],Photography,Yes,Female,Desai,Science,No,3.6
+30,Sanjana Singh,No,Yes,50.3,83.58,67.74,"['Rugby', 'Football']",Painting,No,Female,"Kularatne, Verma",Science,Yes,3.7
+31,Naveen Verma,No,Yes,58.5,66.4,68.37,"['Netball', 'Cricket']",Dancing,No,Male,"Amara, Anjali",Maths,No,3.3
+32,Aakash Perera,Yes,No,68.85,69.52,64.04,"['Rugby', 'Swimming']",Reading,No,Male,Dasun,Art,No,4.7
+33,Karan Singh,No,No,74.68,83.86,74.73,['Basketball'],Music,Yes,Male,"Reena, Sharma",Maths,Yes,3.8
+34,Dev Verma,Yes,No,50.88,73.24,70.78,"['Rugby', 'Netball']",Writing,Yes,Male,"Gaurav, Dasun, Anil",Maths,No,2.5
+35,Gaurav Mehta,Yes,Yes,65.31,65.47,71.35,['Rugby'],Gardening,Yes,Female,Perera,Maths,Yes,2.9
+36,Karan Raj,No,No,66.16,84.27,74.43,['Rugby'],Writing,No,Female,Sharma,Maths,No,4.5
+37,Aakash Kapoor,Yes,No,51.4,72.71,62.9,['Cricket'],Dancing,No,Female,"Aman, Patel, Riya",Science,Yes,3.4
+38,Vinay Rao,Yes,Yes,61.75,77.74,51.52,"['Swimming', 'Netball']",Writing,Yes,Female,"Manish, Sharma, Dasun",English,Yes,4.6
+39,Rohan Mehta,No,Yes,74.08,70.69,65.26,"['Netball', 'Cricket']",Music,Yes,Male,Verma,History,No,3.7
+40,Riya Sharma,Yes,No,62.2,77.96,71.79,"['Rugby', 'Swimming']",Photography,Yes,Male,"Desai, Mehta, Sanjana",Art,No,3.8
+41,Reena Sharma,Yes,No,60.83,84.03,66.36,"['Cricket', 'Tennis']",Playing guitar,Yes,Female,"Desai, Singh, Gamage",Art,No,3.7
+42,Naveen Patel,No,Yes,67.28,73.54,66.21,['Swimming'],Writing,No,Female,"Vikas, Patel, Verma",Maths,No,4
+43,Sneha Sharma,Yes,Yes,73.41,72.79,68.23,['Football'],Painting,No,Female,Anil,English,No,4.4
+44,Neha Kaur,No,Yes,67.32,65.21,73,['Rugby'],Reading,Yes,Male,Dev,Science,Yes,3.4
+45,Kunal Rana,Yes,No,64.62,65.72,70.29,"['Rugby', 'Netball']",Painting,Yes,Female,"Raj, Neha, Mohit",History,Yes,3.4
+46,Kunal Patel,Yes,No,61.49,66.33,60.24,"['Cricket', 'Rugby']",Photography,No,Male,"Rajesh, Dev",Art,No,4
+47,Naveen Raj,No,No,61.91,77.36,50.22,['Volleyball'],Gardening,Yes,Female,"Manish, Gamage",Science,Yes,3.2
+48,Priyanka Silva,No,No,55.36,77.95,66.09,['Cricket'],Writing,No,Male,"Patel, Singh",Maths,No,3.3
+49,Rahul Sharma,No,Yes,59.24,77.73,74.79,"['Volleyball', 'Tennis']",Gardening,No,Female,"Das, Kavita",Art,No,4.4
+50,Rohit Kapoor,No,Yes,73.5,70.21,62.5,"['Swimming', 'Tennis']",Playing guitar,No,Male,Anushka,English,No,3
+51,Sneha Singh,Yes,Yes,69.65,77.85,55.54,['Football'],Music,No,Female,"Kavita, Rao",History,Yes,2.7
+52,Nimesh Sharma,No,No,50.57,68.16,67.31,['Netball'],Gardening,Yes,Female,Sunil,History,No,4.3
+53,Aakash Verma,Yes,No,57.71,75.91,69.35,"['Cricket', 'Volleyball']",Reading,Yes,Female,"Patel, Verma, Riya",History,No,3.9
+54,Karan Verma,Yes,No,65.88,74.36,74.13,"['Tennis', 'Rugby']",Reading,Yes,Male,"Mehta, Mehta",Science,No,3.8
+55,Kasun Fernando,Yes,No,74.83,70.1,57.9,"['Netball', 'Football']",Painting,Yes,Female,Sneha,Science,Yes,4.1
+56,Rohan Mehta,No,Yes,71.94,68.55,50.23,"['Netball', 'Cricket']",Playing guitar,Yes,Male,"Rhea, Patel, Sneha",Science,Yes,3.3
+57,Priyanka Desai,No,No,68.19,67.95,69.72,['Football'],Reading,Yes,Female,"Raj, Patel",History,Yes,4.9
+58,Vinay Patel,No,Yes,61.32,83.01,72.99,"['Volleyball', 'Netball']",Photography,Yes,Female,"Aditya, Rohan",Maths,Yes,3.3
+59,Anushka Patel,Yes,Yes,59.08,80.64,68.05,['Tennis'],Writing,No,Female,"Patel, Patel, Mehta",English,No,4.2
+60,Kunal Raj,No,Yes,51.23,84.26,55.17,"['Swimming', 'Rugby']",Dancing,No,Female,Pooja,Maths,Yes,4
+61,Dev Kapoor,No,Yes,68.77,77.94,51.01,"['Rugby', 'Tennis']",Photography,No,Female,"Mehta, Amara, Mehta",Science,Yes,4.2
+62,Priya Kaur,Yes,No,52.77,71.91,62.46,"['Football', 'Volleyball']",Photography,Yes,Female,"Raj, Kapoor, Kapoor",English,No,4.4
+63,Ananya Nair,Yes,Yes,62.26,71.71,60.93,['Volleyball'],Playing guitar,Yes,Male,"Naveen, Kunal, Ariyarathna",History,Yes,4
+64,Sunil Kapoor,No,Yes,53.81,70.01,50.47,"['Swimming', 'Netball']",Reading,Yes,Female,Desai,Maths,Yes,4.4
+65,Neha Sharma,No,No,52.69,80.28,74.19,"['Football', 'Basketball']",Photography,No,Female,"Gamage, Mehta, Kapoor",Maths,No,2.5
+66,Neha Raj,Yes,Yes,72.43,68.14,57.4,"['Netball', 'Rugby']",Music,No,Male,"Fernando, Rohan",Art,Yes,4.4
+67,Priyanka Verma,Yes,No,70,84.76,69.65,['Volleyball'],Reading,Yes,Male,Kasun,Maths,Yes,2.8
+68,Sejal Raj,Yes,No,66.94,72.77,70.86,"['Volleyball', 'Rugby']",Dancing,No,Female,"Verma, Gamage, Pooja",Art,Yes,3.9
+69,Aditya Singh,Yes,No,68.79,68.95,73.02,"['Basketball', 'Volleyball']",Music,Yes,Female,Singh,Art,No,2.7
+70,Sanjana Desai,No,Yes,68.75,66.55,50.34,"['Swimming', 'Tennis']",Gardening,No,Female,"Das, Simran",Art,Yes,3.5
+71,Anushka Patel,No,Yes,71.73,75.45,63.69,['Cricket'],Gardening,No,Female,"Rana, Reena",History,No,4.3
+72,Priyanka Desai,No,Yes,57.99,75.62,53.85,"['Basketball', 'Swimming']",Cooking,No,Male,"Gaurav, Sanjana",Art,Yes,2.6
+73,Dasun Gamage,No,No,54.01,65.78,71.07,"['Basketball', 'Swimming']",Music,Yes,Male,"Arun, Mohit, Sneha",Maths,Yes,2.5
+74,Rajesh Sharma,No,No,72.67,75.04,74.22,"['Netball', 'Volleyball']",Playing guitar,Yes,Male,"Fernando, Rohit",English,Yes,3.2
+75,Nimesh Verma,Yes,Yes,56.95,80.84,71.14,"['Football', 'Tennis']",Music,No,Male,"Singh, Desai, Perera",Art,No,4.6
+76,Kavita Desai,Yes,No,70.91,70.94,52.66,"['Cricket', 'Football']",Playing guitar,No,Male,"Vikas, Mehta",Science,Yes,3.1
+77,Mithun Raj,No,No,71.63,74.85,64.6,['Football'],Reading,No,Female,"Anushka, Kularatne",History,Yes,3.4
+78,Nalini Sharma,No,Yes,62.37,80.58,65.05,"['Volleyball', 'Rugby']",Playing guitar,No,Female,Karan,English,Yes,4.2
+79,Neha Mehta,Yes,Yes,72.24,68.25,70.28,"['Cricket', 'Netball']",Playing guitar,Yes,Male,Kavya,Art,Yes,4.7
+80,Sunil Kapoor,Yes,No,72.01,73.14,62.48,['Football'],Playing guitar,No,Female,"Kavya, Anjali, Singh",Maths,No,5
+81,Kasun Verma,No,No,50.68,83.63,69.05,"['Swimming', 'Netball']",Gardening,No,Female,"Mithun, Fernando",Science,Yes,4
+82,Reena Gamage,Yes,No,74.74,80.32,57.11,['Football'],Gardening,No,Female,Dasun,Science,No,3.4
+83,Manish Sharma,No,No,53.85,77.54,58.22,['Volleyball'],Photography,Yes,Female,"Raj, Mehta",Art,Yes,4.9
+84,Rajesh Das,Yes,Yes,62.79,69.4,56.67,['Volleyball'],Photography,No,Female,"Ariyarathna, Sharma, Patel",Maths,Yes,3.3
+85,Vikram Singh,No,No,68.17,79.19,65.19,['Netball'],Reading,Yes,Female,Nalini,Maths,No,4.2
+86,Rajesh Patel,Yes,No,60.7,83.96,67.7,"['Swimming', 'Football']",Photography,No,Male,"Kapoor, Desai",History,Yes,2.8
+87,Amara Desai,Yes,Yes,74.5,68.44,65.44,['Rugby'],Playing guitar,Yes,Female,"Desai, Mehta, Arjun",English,Yes,4.2
+88,Aditya Mehta,No,Yes,69.98,74.51,59.24,"['Netball', 'Football']",Music,Yes,Female,"Verma, Kaur",Science,Yes,3.9
+89,Rohan Rana,No,No,61.25,74.02,67.77,"['Cricket', 'Tennis']",Writing,No,Male,"Das, Shruti",Science,No,2.7
+90,Shreya Raj,Yes,No,70.2,78.79,55.19,"['Football', 'Cricket']",Playing guitar,No,Male,Sneha,Science,Yes,3.4
+91,Shruti Patel,No,Yes,54.55,65.68,61.56,['Basketball'],Playing guitar,No,Male,"Perera, Kularatne",History,Yes,3.5
+92,Manish Raj,Yes,Yes,52.42,84.1,66,['Rugby'],Dancing,Yes,Male,"Vinay, Raj",English,No,4.9
+93,Rohan Mehta,No,No,61.38,84.47,64.07,['Cricket'],Reading,Yes,Female,"Kavita, Priyanka, Verma",Maths,Yes,4.5
+94,Riya Kaur,No,Yes,56.73,82.72,69.34,"['Rugby', 'Football']",Photography,Yes,Male,"Naveen, Shruti, Kaur",English,No,3.9
+95,Sunil Verma,No,Yes,55.22,70.17,69.5,['Rugby'],Writing,No,Female,"Ananya, Vinay, Aakash",Maths,Yes,4.2
+96,Arun Perera,No,Yes,58.16,68.85,64.4,['Basketball'],Playing guitar,Yes,Male,"Kapoor, Desai",English,Yes,2.7
+97,Arjun Mehta,No,Yes,60.19,69.45,62.39,"['Volleyball', 'Cricket']",Cooking,Yes,Female,Raj,Maths,Yes,2.9
+98,Vikram Kapoor,Yes,Yes,55.44,80.79,50,['Tennis'],Photography,Yes,Male,"Mehta, Verma",Science,Yes,3.5
+99,Dev Verma,Yes,No,57.81,76.35,56.02,"['Football', 'Cricket']",Cooking,Yes,Female,"Silva, Anushka",Art,Yes,3.2
+100,Simran Ariyarathna,Yes,Yes,60.68,68.77,55.6,"['Basketball', 'Tennis']",Reading,Yes,Male,"Patel, Anushka, Kapoor",Art,No,4.6
+101,Neha Verma,No,Yes,72.45,76.05,58.76,"['Swimming', 'Netball']",Cooking,Yes,Female,"Aakash, Rohan",Art,Yes,2.6
+102,Arun Desai,Yes,No,68.72,83.49,73.59,['Tennis'],Reading,No,Female,"Gaurav, Patel, Mehta",History,Yes,4
+103,Ananya Desai,No,No,66.26,69.53,65.37,"['Netball', 'Basketball']",Reading,No,Male,"Riya, Sunil",English,No,3.9
+104,Naveen Raj,No,Yes,51.47,71.72,59.06,"['Tennis', 'Football']",Dancing,Yes,Male,"Mehta, Naveen, Sejal",Maths,No,3.5
+105,Anjali Raj,No,No,61.59,70.83,51.89,"['Basketball', 'Tennis']",Photography,No,Male,"Desai, Anjali, Rohan",Science,No,3.7
+106,Rohan Verma,No,No,73.93,83.34,62.7,['Basketball'],Dancing,No,Male,"Mehta, Ariyarathna, Sanjana",History,No,3.4
+107,Sanjana Raj,No,Yes,73.11,80.94,62.87,"['Swimming', 'Netball']",Photography,No,Female,Mehta,English,Yes,2.8
+108,Arjun Patel,Yes,Yes,50.25,74.17,71.88,"['Netball', 'Tennis']",Playing guitar,No,Female,Shruti,History,Yes,2.8
+109,Aditya Sharma,No,Yes,64.23,81.19,74.9,['Volleyball'],Photography,Yes,Female,"Shruti, Mehta",History,Yes,3.2
+110,Sanjana Patel,No,No,73.67,75.25,71.92,['Netball'],Music,No,Female,"Patel, Aman",English,Yes,4.9
+111,Reena Mehta,Yes,No,51.63,71.82,52.73,"['Cricket', 'Swimming']",Reading,No,Female,Rohit,Science,Yes,4
+112,Aakash Kapoor,Yes,Yes,73.36,77.6,70.56,['Basketball'],Photography,No,Male,"Rhea, Vikram",Art,Yes,4.2
+113,Rahul Sharma,Yes,No,56.21,71.55,61.45,['Volleyball'],Photography,No,Male,Vikram,Science,No,4.6
+114,Rhea Kularatne,No,Yes,68.39,75.47,51.31,['Rugby'],Writing,Yes,Male,Kapoor,Science,Yes,3.4
+115,Kavita Kularatne,No,No,54.18,84.31,54.46,"['Rugby', 'Basketball']",Painting,No,Female,"Rajesh, Vikram, Singh",Maths,Yes,3.6
+116,Mithun Verma,No,No,73.29,73.18,67.94,"['Rugby', 'Basketball']",Photography,No,Male,Sanjana,English,No,4.1
+117,Aakash Rao,No,No,67.45,78.87,67.97,"['Cricket', 'Basketball']",Reading,No,Male,Aman,Art,Yes,4.9
+118,Riya Rao,Yes,No,70.48,69.93,64.74,['Cricket'],Cooking,No,Female,"Singh, Gamage, Amara",Art,No,2.6
+119,Sunil Desai,Yes,Yes,56.28,67.02,61.75,['Swimming'],Gardening,No,Male,Mohit,History,Yes,3.8
+120,Rajesh Sharma,Yes,Yes,50.52,65.15,61.45,"['Volleyball', 'Cricket']",Painting,Yes,Male,Arun,Science,Yes,3.7
+121,Anjali Kularatne,No,Yes,66.96,65.76,54.77,['Tennis'],Photography,No,Male,Mehta,Art,No,3.2
+122,Sanjana Raj,Yes,Yes,50.16,71.33,74.43,"['Tennis', 'Swimming']",Gardening,Yes,Male,"Fernando, Mehta, Riya",Science,No,2.7
+123,Nimesh Singh,Yes,No,74.64,68.66,62.98,['Basketball'],Dancing,No,Female,Nimesh,Art,No,3.4
+124,Aman Desai,No,Yes,71.26,84.73,66.48,['Cricket'],Cooking,Yes,Male,"Vinay, Raj",Maths,No,4.4
+125,Anjali Rana,Yes,Yes,62.39,80.46,67.1,"['Netball', 'Rugby']",Reading,Yes,Male,"Priyanka, Sharma",History,Yes,3.9
+126,Naveen Verma,Yes,No,60.58,84.23,72.63,['Tennis'],Dancing,No,Male,"Raj, Rahul, Shruti",Art,No,4.5
+127,Rohit Desai,No,Yes,57.64,70.36,56.14,"['Rugby', 'Basketball']",Photography,No,Male,"Verma, Desai",English,No,4.8
+128,Manish Raj,No,Yes,70.61,76.22,63.35,"['Basketball', 'Swimming']",Cooking,No,Female,"Dev, Gamage",English,Yes,4.9
+129,Aman Patel,Yes,No,73.89,77.97,54.79,['Volleyball'],Music,No,Female,"Desai, Nimesh",Maths,Yes,3.8
+130,Gaurav Raj,No,No,74.35,83.01,70.76,"['Volleyball', 'Football']",Photography,No,Male,"Rahul, Patel",English,No,4.1
+131,Anjali Raj,No,Yes,52.08,69.98,71.58,['Volleyball'],Painting,No,Male,Nair,Art,Yes,4.4
+132,Manish Ariyarathna,Yes,Yes,71.22,82.12,61.52,['Rugby'],Playing guitar,Yes,Female,Patel,English,Yes,3.4
+133,Naveen Desai,Yes,No,52.12,68.36,65.34,"['Rugby', 'Tennis']",Music,No,Male,"Sanjana, Rahul",Science,Yes,4.1
+134,Sanjana Rana,No,No,64.17,71.2,52.34,['Cricket'],Cooking,Yes,Male,Mehta,English,Yes,4.4
+135,Priya Rana,No,Yes,66.51,71.32,61.78,['Swimming'],Reading,No,Female,"Dasun, Desai, Dev",History,No,3.3
+136,Shreya Das,Yes,No,70.29,78.61,52.08,"['Rugby', 'Football']",Playing guitar,Yes,Male,"Kavya, Fernando, Patel",English,Yes,2.8
+137,Kavita Patel,No,No,74.12,66.31,57.24,['Cricket'],Music,No,Female,"Patel, Patel",English,Yes,4.1
+138,Rohan Raj,Yes,No,71.71,69.83,63.22,"['Volleyball', 'Basketball']",Dancing,No,Female,Verma,English,No,4.4
+139,Anjali Patel,No,No,58.39,78.08,69.92,['Basketball'],Gardening,Yes,Female,"Karan, Sharma, Verma",Maths,Yes,3.1
+140,Sanjana Patel,Yes,No,51.25,71.1,50.98,"['Volleyball', 'Tennis']",Music,No,Female,"Perera, Kapoor, Mehta",History,Yes,4.6
+141,Nalini Mehta,Yes,No,58.57,79.4,68.83,"['Netball', 'Basketball']",Writing,Yes,Male,"Mehta, Rajesh, Singh",History,No,3.9
+142,Kunal Desai,No,Yes,58.3,83.58,53.02,"['Football', 'Tennis']",Gardening,No,Female,"Verma, Arun",History,Yes,3.1
+143,Arjun Sharma,Yes,No,58.54,71.16,64.38,"['Tennis', 'Basketball']",Dancing,No,Female,Desai,English,Yes,4.9
+144,Naveen Mehta,Yes,Yes,59.72,69.66,53.79,['Rugby'],Writing,No,Female,"Anushka, Priya",History,No,2.8
+145,Mithun Singh,Yes,No,71.5,80.37,68.31,"['Cricket', 'Volleyball']",Dancing,Yes,Female,Raj,Science,No,3.7
+146,Anil Raj,No,No,55.56,79.26,55.81,"['Swimming', 'Netball']",Music,Yes,Male,"Perera, Kavya",History,Yes,3.6
+147,Aditya Mehta,No,No,71.04,72.77,59.11,"['Tennis', 'Football']",Writing,Yes,Male,"Mehta, Manish",History,Yes,5
+148,Kunal Singh,Yes,Yes,65.28,71.09,55.23,['Netball'],Painting,Yes,Female,Rao,Maths,Yes,3.4
+149,Pooja Mehta,Yes,Yes,50.7,66.97,69.12,['Cricket'],Writing,No,Male,"Gaurav, Nalini, Raj",English,Yes,4.6
+150,Rhea Raj,No,No,52.69,66.72,53.88,"['Volleyball', 'Cricket']",Music,Yes,Female,Singh,Maths,No,3.9
+151,Manish Raj,Yes,No,70.09,76.45,60.37,"['Cricket', 'Football']",Dancing,No,Female,"Gamage, Priya",Science,No,4
+152,Pooja Sharma,Yes,No,56.6,77.59,54.16,"['Cricket', 'Basketball']",Writing,No,Male,"Rahul, Gamage",Art,Yes,2.6
+153,Nalini Kapoor,Yes,Yes,70.94,75.37,64.11,"['Basketball', 'Football']",Painting,Yes,Female,Aman,English,Yes,4.8
+154,Aakash Kaur,Yes,Yes,70.23,73.05,66.96,"['Basketball', 'Football']",Photography,Yes,Male,"Mehta, Patel",Art,No,3.2
+155,Vinay Singh,No,Yes,63.5,77.94,66.78,['Netball'],Painting,No,Female,"Singh, Vikram, Mehta",English,No,3.8
+156,Mithun Mehta,No,No,74.71,78.83,53.19,['Tennis'],Writing,Yes,Male,Desai,English,No,5
+157,Kunal Das,No,No,56.96,81.16,61.93,"['Basketball', 'Netball']",Photography,Yes,Male,"Mehta, Sharma",Maths,Yes,3.8
+158,Kavya Sharma,No,Yes,70.22,74.72,60.41,"['Netball', 'Volleyball']",Writing,Yes,Female,"Silva, Desai, Rohan",History,Yes,3.8
+159,Shreya Perera,Yes,No,55.77,69.68,72.24,['Basketball'],Cooking,Yes,Female,Raj,History,Yes,3.4
+160,Sejal Mehta,No,No,73.24,77.57,64.17,['Volleyball'],Writing,Yes,Female,"Anushka, Sejal, Verma",History,Yes,3
+161,Pooja Patel,No,Yes,62.68,82.11,63.07,"['Netball', 'Tennis']",Writing,No,Male,"Shreya, Verma",English,No,4.3
+162,Ananya Raj,No,Yes,68.64,72.53,65.56,['Basketball'],Reading,Yes,Female,Singh,Science,No,4.7
+163,Reena Kaur,No,No,72.74,66.57,58.04,"['Cricket', 'Swimming']",Music,No,Female,Kapoor,Science,Yes,3.8
+164,Shruti Kapoor,Yes,No,69.62,73.58,58.24,"['Cricket', 'Rugby']",Gardening,No,Female,"Raj, Mehta",Art,Yes,2.6
+165,Anushka Sharma,No,Yes,60.11,67.09,68.29,"['Basketball', 'Rugby']",Dancing,No,Male,"Patel, Arun, Singh",Science,Yes,4.5
+166,Dasun Sharma,Yes,No,61.45,66.48,52.58,"['Netball', 'Tennis']",Painting,No,Male,"Sejal, Sharma",Art,Yes,3.7
+167,Rohan Perera,Yes,No,69.31,68.25,57.83,"['Cricket', 'Swimming']",Playing guitar,No,Male,"Raj, Desai",Maths,No,4
+168,Pooja Kularatne,No,Yes,54.25,75.61,70.16,"['Tennis', 'Volleyball']",Reading,No,Female,Sharma,History,Yes,4.5
+169,Gaurav Desai,No,Yes,56.51,68.88,65.59,"['Tennis', 'Swimming']",Photography,Yes,Male,"Rahul, Vinay, Anushka",Maths,No,4.9
+170,Rohan Mehta,No,No,71.28,77.82,69.67,['Swimming'],Writing,No,Female,"Verma, Nair, Nalini",Maths,Yes,4.1
+171,Sneha Kapoor,No,No,56.24,77.76,53.86,"['Volleyball', 'Swimming']",Reading,Yes,Male,"Nimesh, Kularatne",English,Yes,3.6
+172,Pooja Patel,Yes,No,58.17,73.25,74.61,['Netball'],Gardening,No,Male,Neha,Art,Yes,3.8
+173,Sneha Mehta,No,Yes,64.18,83.32,50.57,['Netball'],Cooking,Yes,Male,Ariyarathna,Science,Yes,4.6
+174,Arun Mehta,Yes,No,52.8,72.85,68.39,['Swimming'],Writing,No,Male,"Singh, Rajesh, Rohan",Art,Yes,4.8
+175,Arjun Kapoor,No,Yes,55.67,76.87,58.05,"['Swimming', 'Netball']",Music,Yes,Female,"Raj, Ariyarathna",Art,Yes,4.7
+176,Rhea Sharma,No,Yes,69.94,69.05,65.01,['Football'],Gardening,Yes,Female,"Verma, Anjali, Patel",Science,No,5
+177,Shruti Verma,Yes,No,61.36,80.4,68.77,"['Football', 'Basketball']",Cooking,No,Female,"Rohan, Mehta, Rajesh",History,Yes,4.6
+178,Shreya Perera,Yes,Yes,61.83,73.49,62.78,['Cricket'],Reading,Yes,Female,"Mohit, Mehta, Singh",Science,No,4.1
+179,Anil Mehta,No,No,59.13,79.33,54.5,"['Basketball', 'Volleyball']",Cooking,Yes,Male,"Raj, Rhea",English,Yes,3.8
+180,Simran Singh,Yes,No,51.49,68.41,74.67,"['Football', 'Basketball']",Cooking,No,Female,"Priyanka, Nalini",Art,No,2.8
+181,Karan Patel,No,No,70.92,76.13,66.71,['Tennis'],Gardening,Yes,Male,Mehta,Art,No,3.8
+182,Shreya Silva,No,No,72.99,73.5,56.99,['Volleyball'],Gardening,No,Female,Anil,Maths,Yes,2.8
+183,Riya Singh,No,No,60.59,70.55,67.57,['Tennis'],Cooking,Yes,Female,"Karan, Kaur, Anushka",English,Yes,3.7
+184,Karan Patel,No,Yes,54.22,81.4,55.07,"['Cricket', 'Swimming']",Gardening,Yes,Male,"Nimesh, Riya",Science,Yes,4.2
+185,Aakash Das,Yes,Yes,61.03,70.46,60.46,['Tennis'],Photography,Yes,Female,Kavya,English,Yes,4
+186,Sanjana Singh,No,No,53.55,80.1,58.04,['Tennis'],Photography,Yes,Male,"Kasun, Desai",Maths,No,3.9
+187,Rajesh Ariyarathna,Yes,Yes,74.26,77.74,72.05,['Tennis'],Gardening,Yes,Female,"Neha, Raj",English,No,2.8
+188,Amara Raj,Yes,No,53.27,73.65,62.4,['Basketball'],Dancing,Yes,Male,"Reena, Arjun",History,No,4.3
+189,Vikram Singh,No,Yes,58.3,81.78,74.69,"['Swimming', 'Netball']",Gardening,Yes,Female,Verma,Science,Yes,3.1
+190,Riya Gamage,No,No,57.87,82.8,58.83,"['Tennis', 'Swimming']",Dancing,Yes,Male,"Desai, Kularatne, Dasun",History,Yes,3.9
+191,Shreya Nair,No,Yes,74.25,77.07,61.13,['Cricket'],Playing guitar,No,Female,"Kapoor, Aditya",History,No,3.3
+192,Sejal Sharma,No,Yes,52.74,77.77,54.12,"['Volleyball', 'Cricket']",Writing,Yes,Male,Vikas,Science,Yes,2.5
+193,Sunil Kaur,Yes,No,54.49,82.46,61.33,"['Netball', 'Cricket']",Writing,Yes,Female,"Priyanka, Gaurav, Priyanka",Maths,Yes,2.6
+194,Shruti Sharma,No,Yes,73.7,70.46,50.88,"['Basketball', 'Swimming']",Writing,No,Male,Perera,English,No,2.5
+195,Shreya Mehta,No,No,58.51,78,69,"['Rugby', 'Tennis']",Reading,No,Male,"Desai, Desai, Kapoor",English,No,4.2
+196,Priyanka Singh,Yes,No,73.97,70.94,61.46,['Volleyball'],Reading,Yes,Male,"Kavita, Fernando, Nair",Art,Yes,4.6
+197,Rohan Fernando,No,Yes,53.52,78.85,53.68,['Football'],Gardening,No,Female,"Mehta, Perera, Patel",English,Yes,3.5
+198,Anjali Nair,Yes,Yes,52.27,74.37,50.71,"['Football', 'Basketball']",Painting,No,Female,Ananya,Science,No,3.3
+199,Rohit Rao,Yes,Yes,73.22,69.17,61.19,"['Rugby', 'Netball']",Reading,Yes,Female,"Nimesh, Mehta, Patel",Science,Yes,2.8
+200,Simran Singh,Yes,Yes,74.06,76.29,66.47,"['Netball', 'Tennis']",Painting,Yes,Female,"Mehta, Anushka",Art,Yes,2.8
+201,Sneha Sharma,Yes,Yes,64.73,74.35,72.88,['Tennis'],Dancing,Yes,Female,"Perera, Anushka",Maths,No,3.9
+202,Mithun Gamage,Yes,No,65.17,80.81,69.75,['Rugby'],Dancing,Yes,Female,"Rohan, Kaur, Sejal",History,Yes,4.1
+203,Rohan Singh,Yes,Yes,66.28,69.18,57.62,"['Rugby', 'Basketball']",Dancing,No,Female,"Kaur, Patel, Vinay",History,No,3.2
+204,Nimesh Patel,Yes,No,54.21,71.52,74.94,['Rugby'],Writing,No,Male,"Sejal, Silva",Science,No,4.4
+205,Kunal Kapoor,Yes,Yes,52.91,79.01,72.61,['Netball'],Painting,Yes,Male,"Anushka, Manish, Rohan",Science,No,4.5
+206,Naveen Kapoor,No,Yes,69.29,77.11,53.61,"['Volleyball', 'Rugby']",Writing,No,Male,Anjali,Maths,No,4
+207,Aman Desai,Yes,No,70.69,73.16,71.54,['Cricket'],Reading,Yes,Female,"Singh, Fernando, Singh",Art,Yes,3
+208,Kavita Patel,Yes,No,71.76,67.01,61.31,"['Rugby', 'Football']",Dancing,Yes,Male,Rhea,Science,No,2.8
+209,Anil Perera,No,No,68.77,71.61,63.38,"['Rugby', 'Football']",Playing guitar,No,Female,"Ananya, Singh",History,No,2.6
+210,Anjali Singh,No,No,71.5,79.11,65.21,"['Rugby', 'Volleyball']",Painting,Yes,Female,"Raj, Anil",Science,Yes,2.6
+211,Sejal Verma,Yes,Yes,65.94,68.07,64.96,"['Football', 'Swimming']",Reading,Yes,Male,"Anushka, Aman",Art,No,3.7
+212,Karan Das,Yes,Yes,69.97,81.6,51.25,['Swimming'],Gardening,No,Male,"Aman, Verma, Aakash",Maths,Yes,4.6
+213,Reena Singh,Yes,No,63.31,81.27,72.24,"['Volleyball', 'Basketball']",Dancing,No,Female,Riya,English,Yes,4.7
+214,Sanjana Patel,No,No,63.6,76.81,57.74,"['Cricket', 'Volleyball']",Painting,No,Female,Rohit,Maths,No,3.1
+215,Rohan Silva,No,Yes,71.03,79.44,72.84,"['Swimming', 'Volleyball']",Reading,Yes,Female,"Anjali, Kapoor, Aditya",History,No,2.5
+216,Vikram Kapoor,No,No,68.12,76.21,52.15,"['Tennis', 'Basketball']",Painting,Yes,Female,"Gamage, Anushka, Sneha",Maths,Yes,3.7
+217,Vinay Gamage,No,Yes,59.01,84.18,67.44,['Cricket'],Music,No,Female,Neha,Art,Yes,3.3
+218,Naveen Kapoor,Yes,No,66.01,70.81,65.13,"['Swimming', 'Football']",Writing,No,Male,"Shreya, Aditya",English,Yes,3
+219,Rohan Kapoor,No,Yes,65.36,72.72,66.66,"['Netball', 'Rugby']",Playing guitar,No,Male,Rohit,Art,Yes,4
+220,Neha Sharma,No,Yes,61.71,71.72,66.19,['Cricket'],Playing guitar,No,Male,"Anil, Rohan",History,Yes,4.3
+221,Sanjana Kapoor,No,No,54.12,79.45,67.25,['Rugby'],Music,No,Male,"Sanjana, Gaurav, Sharma",Art,No,3
+222,Rahul Das,No,Yes,56.57,82.01,59.21,"['Tennis', 'Rugby']",Dancing,No,Female,"Verma, Kavita",Maths,No,3
+223,Shreya Sharma,No,Yes,58.09,65.79,72.23,"['Netball', 'Swimming']",Photography,Yes,Female,"Patel, Patel",Art,Yes,3.8
+224,Dev Desai,Yes,Yes,69.65,73.93,66.85,['Cricket'],Photography,Yes,Female,Rao,Art,Yes,4.5
+225,Aditya Kapoor,Yes,No,62.06,75.43,50.66,['Basketball'],Playing guitar,Yes,Female,Priya,History,Yes,3.1
+226,Aman Fernando,No,Yes,74.73,67.48,60.85,['Swimming'],Playing guitar,No,Female,"Raj, Singh",History,Yes,4.2
+227,Ananya Sharma,Yes,No,56.69,70.74,52.64,"['Rugby', 'Football']",Painting,No,Female,"Raj, Raj",History,No,4.3
+228,Kavya Desai,Yes,Yes,59.77,69.59,65.59,"['Football', 'Tennis']",Music,No,Female,"Gamage, Sharma, Kapoor",Science,Yes,4.3
+229,Karan Raj,Yes,Yes,57.38,79.32,50.41,"['Tennis', 'Swimming']",Reading,Yes,Male,"Rajesh, Karan",Art,No,3.9
+230,Nalini Patel,Yes,No,71.94,80.18,74.13,"['Basketball', 'Football']",Playing guitar,Yes,Female,Dev,English,No,3
+231,Nimesh Verma,No,No,63.42,67.86,66.51,"['Volleyball', 'Cricket']",Playing guitar,No,Male,Sanjana,Art,Yes,3.7
+232,Pooja Sharma,No,No,58.91,72.03,50.29,['Volleyball'],Reading,No,Female,Rhea,English,Yes,3.1
+233,Priyanka Gamage,No,No,53.66,74.77,66.54,['Swimming'],Music,No,Female,"Patel, Rana, Verma",Science,Yes,4.1
+234,Aditya Desai,Yes,Yes,70.41,81.69,52.8,"['Football', 'Tennis']",Cooking,No,Male,Patel,Science,No,4
+235,Riya Singh,Yes,No,54,66.82,51.5,"['Football', 'Basketball']",Dancing,No,Male,"Priyanka, Raj",Science,Yes,4
+236,Aman Rao,Yes,No,65.4,65.91,53.91,"['Basketball', 'Football']",Writing,No,Male,"Priyanka, Sunil",English,Yes,5
+237,Priya Desai,No,No,63.65,75.47,52,['Tennis'],Music,Yes,Female,"Rana, Mehta, Sharma",Science,Yes,3.2
+238,Sejal Silva,Yes,No,64.37,66.98,51.83,"['Volleyball', 'Rugby']",Gardening,No,Male,"Fernando, Sharma",History,Yes,3.6
+239,Mohit Patel,No,Yes,63.72,82.62,71.54,['Swimming'],Gardening,No,Female,Vinay,English,Yes,4.8
+240,Rohit Sharma,No,Yes,50.51,83.83,65.34,"['Cricket', 'Swimming']",Gardening,No,Female,Patel,Maths,Yes,3.4
+241,Sneha Patel,No,No,55.53,79.66,68.04,['Tennis'],Playing guitar,No,Male,"Kapoor, Mehta",History,No,4
+242,Simran Singh,Yes,No,52.57,78.43,72.93,['Football'],Music,No,Female,"Mithun, Priya",English,No,4.5
+243,Kunal Mehta,No,No,74.46,81.6,71.9,['Basketball'],Music,Yes,Male,"Amara, Desai, Raj",English,No,3.6
+244,Nalini Patel,Yes,Yes,73.49,76.51,74.75,"['Football', 'Netball']",Cooking,Yes,Female,Rana,Art,Yes,3.5
+245,Mohit Sharma,No,No,64.2,68.95,52.12,['Basketball'],Photography,No,Male,"Sharma, Anil, Shruti",History,Yes,3.8
+246,Shreya Patel,No,Yes,69.88,67.91,54.06,['Rugby'],Photography,No,Female,"Rahul, Kapoor, Singh",Science,No,2.6
+247,Neha Sharma,No,Yes,66.73,68.4,59.47,"['Football', 'Volleyball']",Playing guitar,No,Male,"Kapoor, Sharma",History,Yes,4.1
+248,Pooja Singh,No,Yes,64.11,83.12,51.06,['Football'],Painting,No,Male,"Aditya, Arjun, Gaurav",Science,No,4.5
+249,Kunal Rao,No,Yes,74.03,74.85,65.87,['Tennis'],Painting,Yes,Female,"Sunil, Singh",Art,Yes,3.4
+250,Kasun Kapoor,No,Yes,71.88,83.67,52.67,"['Volleyball', 'Cricket']",Writing,No,Male,Patel,Art,No,3.8
+251,Sunil Kularatne,Yes,No,57.81,68.46,56,['Football'],Photography,Yes,Female,"Fernando, Rahul",Art,No,4.6
+252,Vikram Rao,Yes,Yes,55.52,79.93,57.38,['Swimming'],Music,No,Female,Shruti,Maths,No,3.3
+253,Naveen Mehta,No,Yes,70.5,79.5,61.87,['Swimming'],Gardening,No,Male,"Verma, Kavya, Nimesh",English,Yes,4.2
+254,Dev Patel,No,No,60.41,78.7,67.1,"['Basketball', 'Tennis']",Painting,Yes,Male,"Verma, Rohan, Verma",History,No,4.4
+255,Dev Desai,No,No,63.58,80.27,69.04,"['Volleyball', 'Netball']",Reading,Yes,Female,"Rana, Neha, Sharma",English,Yes,2.8
+256,Nalini Mehta,No,Yes,67.33,78.81,56.34,['Tennis'],Playing guitar,No,Male,"Aman, Gamage, Gaurav",English,No,3
+257,Gaurav Perera,Yes,No,63.32,79.7,74.81,"['Rugby', 'Netball']",Cooking,No,Female,"Dasun, Sharma, Priyanka",Maths,No,4.8
+258,Aman Desai,No,No,69.31,75.53,63.52,['Volleyball'],Dancing,No,Male,"Kavita, Arun",History,Yes,4.5
+259,Manish Ariyarathna,No,No,63.5,68.39,56.19,['Rugby'],Dancing,No,Female,Raj,Art,Yes,4.8
+260,Simran Sharma,Yes,Yes,70.2,75.51,70.93,"['Swimming', 'Tennis']",Gardening,No,Female,"Rohan, Patel, Aditya",History,Yes,2.9
+261,Sanjana Mehta,Yes,Yes,62.38,80.77,61.8,['Tennis'],Writing,Yes,Male,"Patel, Nalini",Art,Yes,4.2
+262,Naveen Patel,No,No,52.59,69.04,63.6,"['Cricket', 'Swimming']",Writing,Yes,Male,Amara,English,No,2.8
+263,Karan Kaur,No,Yes,64.24,77.96,51.11,"['Netball', 'Cricket']",Painting,Yes,Female,"Mehta, Priyanka",History,No,3.2
+264,Vikram Mehta,Yes,Yes,67.04,72.78,57.31,"['Netball', 'Basketball']",Cooking,Yes,Female,Rohan,Maths,Yes,3.2
+265,Rahul Desai,Yes,No,60.24,75.88,71.77,['Football'],Reading,Yes,Male,"Patel, Aman",Maths,No,3.5
+266,Aditya Sharma,Yes,Yes,71.47,66.11,68.69,"['Netball', 'Basketball']",Music,No,Male,"Manish, Singh, Kapoor",Art,Yes,3.8
+267,Rajesh Patel,Yes,No,65.26,73.73,55.25,"['Rugby', 'Football']",Music,No,Female,"Raj, Kularatne, Naveen",Maths,Yes,4.2
+268,Simran Patel,No,Yes,64.93,76.78,60.3,['Cricket'],Playing guitar,Yes,Female,"Rajesh, Mehta",Science,No,4.6
+269,Rajesh Sharma,Yes,No,50.49,65.48,73.5,['Swimming'],Playing guitar,No,Male,"Pooja, Mehta",Science,Yes,4.1
+270,Manish Ariyarathna,No,No,62.18,79.7,57.84,['Volleyball'],Music,No,Male,"Perera, Sanjana",Science,No,2.8
+271,Rohan Patel,No,Yes,63.48,75.55,60.36,"['Volleyball', 'Rugby']",Writing,No,Male,Vinay,Art,No,4.9
+272,Mohit Verma,Yes,Yes,74.97,67.9,66.23,['Football'],Reading,Yes,Female,Vikas,Art,Yes,3
+273,Anushka Perera,Yes,No,69.56,72.2,63.76,"['Tennis', 'Netball']",Playing guitar,Yes,Female,Rohan,Science,Yes,3.9
+274,Nalini Raj,Yes,No,57.84,71.43,51.58,['Basketball'],Music,Yes,Female,"Kasun, Pooja",History,No,3.6
+275,Priya Sharma,Yes,Yes,69.71,70.04,74.84,"['Cricket', 'Swimming']",Playing guitar,Yes,Male,Anil,Maths,No,3
+276,Sunil Patel,Yes,Yes,73.63,70.64,67.17,"['Swimming', 'Basketball']",Cooking,No,Female,Karan,Maths,Yes,2.6
+277,Rahul Raj,No,Yes,59.77,65.27,69.55,"['Rugby', 'Basketball']",Playing guitar,Yes,Male,Vikram,Science,No,4.5
+278,Manish Sharma,No,No,66.52,70.29,59.15,['Football'],Playing guitar,No,Female,"Raj, Sanjana, Anjali",Art,No,2.9
+279,Aman Kularatne,No,Yes,70.36,84.17,63.15,['Rugby'],Playing guitar,No,Female,"Verma, Arun",Art,No,3.5
+280,Vikram Kapoor,No,No,51.7,80.41,72.82,"['Tennis', 'Swimming']",Gardening,Yes,Female,"Pooja, Sanjana, Kunal",Science,No,5
+281,Neha Singh,Yes,No,51.52,73.57,66.31,['Volleyball'],Writing,No,Male,"Mehta, Singh",Maths,No,4.2
+282,Priyanka Das,Yes,Yes,69.41,67.01,52.85,"['Rugby', 'Cricket']",Playing guitar,No,Male,Mehta,Art,No,2.9
+283,Amara Desai,No,No,57.75,72.2,72.89,['Volleyball'],Playing guitar,Yes,Male,"Singh, Rao",Art,Yes,2.6
+284,Priyanka Patel,No,No,58.46,68.41,58.68,['Football'],Dancing,Yes,Female,"Kapoor, Ariyarathna, Ananya",History,Yes,3.1
+285,Neha Rana,No,No,69.48,67.61,66.5,['Football'],Photography,No,Female,Patel,Science,No,4.4
+286,Shruti Mehta,Yes,No,55.28,81.51,73.39,['Football'],Painting,No,Female,"Aditya, Kapoor, Das",Art,No,5
+287,Rohan Mehta,No,No,60.68,80.12,72.84,['Rugby'],Photography,No,Male,Patel,English,No,2.9
+288,Ananya Singh,Yes,Yes,74.77,70.99,62.58,['Swimming'],Painting,No,Female,Kapoor,History,Yes,4.9
+289,Sanjana Desai,Yes,Yes,56.67,77.7,53.93,['Football'],Writing,No,Female,"Desai, Vikram",Maths,No,3.8
+290,Shreya Sharma,Yes,Yes,62.3,75.05,50.84,['Volleyball'],Photography,No,Female,"Vikas, Sunil, Patel",Art,Yes,4.3
+291,Sejal Das,Yes,No,73.33,68.24,62.75,"['Netball', 'Rugby']",Cooking,Yes,Female,"Sneha, Rohan",Art,Yes,3.3
+292,Pooja Patel,No,Yes,67.23,82.18,64.15,"['Swimming', 'Tennis']",Gardening,No,Male,"Verma, Sanjana, Kapoor",History,Yes,4.7
+293,Sneha Patel,Yes,No,63.16,79.14,69.37,['Football'],Writing,No,Male,Mehta,Art,No,2.6
+294,Kavya Perera,No,Yes,72.42,73.06,65.62,"['Cricket', 'Swimming']",Photography,No,Male,"Mehta, Rohan",Science,No,3
+295,Kavya Sharma,No,No,54.19,75.29,71.36,"['Swimming', 'Volleyball']",Music,No,Female,"Vinay, Verma",Art,No,2.7
+296,Rhea Silva,No,Yes,51.83,78.58,59.02,['Tennis'],Writing,No,Female,Mehta,Science,No,3.7
+297,Gaurav Silva,No,Yes,55.01,80.14,71.52,"['Cricket', 'Basketball']",Painting,Yes,Female,Desai,Art,Yes,4.5
+298,Nalini Patel,Yes,No,67.18,71.97,60.93,"['Swimming', 'Football']",Dancing,Yes,Male,"Rohit, Kunal",English,No,4.5
+299,Pooja Desai,Yes,No,74.82,84.94,64.21,['Cricket'],Dancing,No,Male,Amara,Art,No,4.8
+300,Rahul Patel,Yes,No,52.06,80.14,54.27,"['Swimming', 'Rugby']",Cooking,No,Female,Nair,Art,No,4.1
+301,Reena Das,Yes,No,61.72,67.61,70.11,['Volleyball'],Cooking,No,Male,"Gamage, Raj",Maths,No,3.5
+302,Rajesh Verma,No,No,64.57,68.2,64.18,"['Basketball', 'Rugby']",Dancing,No,Female,"Sharma, Dasun, Vikas",Art,Yes,4.5
+303,Rahul Mehta,No,Yes,57.05,83.32,51.73,"['Swimming', 'Netball']",Music,No,Female,"Desai, Patel, Anushka",Science,Yes,2.6
+304,Mohit Patel,Yes,Yes,55.16,74.51,72.1,['Netball'],Writing,No,Male,"Aakash, Singh, Mehta",Science,Yes,3.3
+305,Dev Sharma,Yes,Yes,64.86,75.53,65.18,"['Volleyball', 'Tennis']",Painting,Yes,Male,"Mehta, Priya, Raj",English,Yes,3.2
+306,Karan Kapoor,Yes,No,71.43,73.37,60.35,"['Football', 'Volleyball']",Playing guitar,No,Female,"Simran, Naveen, Patel",Maths,Yes,2.8
+307,Sanjana Sharma,No,Yes,50.19,82.39,70.47,"['Tennis', 'Rugby']",Gardening,Yes,Male,"Rohan, Aman, Raj",English,No,4.5
+308,Aditya Perera,No,Yes,68.8,83.48,62.71,"['Swimming', 'Tennis']",Writing,Yes,Male,Kaur,Art,No,3.2
+309,Ananya Raj,Yes,Yes,52.07,80.75,69.62,"['Netball', 'Swimming']",Cooking,No,Male,"Dasun, Anil",English,Yes,3.2
+310,Sanjana Sharma,No,No,55.11,75.65,68.09,"['Rugby', 'Netball']",Cooking,Yes,Male,"Desai, Simran",Maths,Yes,2.9
+311,Ananya Kaur,Yes,Yes,70.93,84.16,57.27,['Swimming'],Playing guitar,Yes,Male,Patel,Maths,Yes,4.8
+312,Aditya Rao,No,No,68.52,66.7,69.15,"['Rugby', 'Swimming']",Reading,Yes,Female,Manish,English,Yes,4.5
+313,Vinay Raj,Yes,No,61.11,84.13,68.45,['Swimming'],Writing,No,Female,"Sanjana, Rahul",Art,No,4.7
+314,Dasun Mehta,Yes,Yes,55.1,75.12,64.05,['Cricket'],Playing guitar,Yes,Male,Priya,Science,No,4.4
+315,Naveen Singh,Yes,No,54.53,75.25,69.77,['Tennis'],Cooking,No,Female,Kapoor,History,Yes,4.5
+316,Kasun Ariyarathna,Yes,Yes,55.53,71.85,68.8,['Volleyball'],Writing,No,Male,"Patel, Verma",Art,No,2.6
+317,Mohit Patel,Yes,No,68.77,76.23,69.08,"['Netball', 'Cricket']",Dancing,Yes,Female,"Patel, Rohit",History,No,3.3
+318,Dasun Mehta,No,Yes,73.66,75.94,70.36,"['Netball', 'Football']",Dancing,No,Female,"Raj, Aakash",Science,No,2.6
+319,Nimesh Singh,Yes,No,68.3,65.98,71.12,['Netball'],Reading,Yes,Male,"Verma, Patel, Mohit",Science,Yes,4
+320,Manish Patel,Yes,No,74.93,70.96,60.68,['Cricket'],Cooking,Yes,Female,"Rajesh, Arun",Science,Yes,4.5
+321,Amara Verma,No,No,64.77,84.3,60.7,['Volleyball'],Gardening,Yes,Female,"Fernando, Kunal, Gamage",History,No,3.9
+322,Anjali Patel,Yes,No,55.98,67.28,57.12,"['Basketball', 'Tennis']",Playing guitar,Yes,Female,Mohit,Science,No,4.2
+323,Mithun Sharma,Yes,Yes,68.67,77.64,60.48,['Swimming'],Painting,Yes,Male,"Kavya, Patel",English,Yes,4.6
+324,Kavita Mehta,Yes,Yes,53.39,83.61,62.67,"['Basketball', 'Cricket']",Reading,No,Male,Dev,History,No,3.8
+325,Sanjana Mehta,No,Yes,55.35,67.16,71.63,['Basketball'],Photography,No,Male,Kavya,Maths,No,4.8
+326,Ananya Desai,No,Yes,66.74,73.14,74.86,['Cricket'],Writing,No,Male,"Arun, Mehta",Art,Yes,4.3
+327,Karan Kapoor,No,No,60.98,68.47,64.06,"['Rugby', 'Cricket']",Dancing,Yes,Male,"Kunal, Amara, Shruti",Maths,Yes,5
+328,Karan Patel,Yes,No,74.57,65.83,52.17,"['Rugby', 'Swimming']",Painting,No,Female,"Nimesh, Anil",Maths,No,2.5
+329,Aditya Sharma,Yes,No,50.99,78.82,71.78,['Tennis'],Painting,No,Female,"Patel, Arjun",History,Yes,4.7
+330,Sunil Sharma,No,Yes,57.48,67.87,72.21,"['Netball', 'Cricket']",Writing,Yes,Male,"Nair, Kapoor, Gamage",Art,No,3.2
+331,Neha Gamage,Yes,Yes,67.05,81.29,62.35,['Rugby'],Photography,Yes,Male,"Kasun, Raj, Sneha",Science,Yes,4.9
+332,Rahul Patel,Yes,Yes,61.42,67.04,53.81,['Swimming'],Reading,Yes,Female,Mohit,Science,Yes,3.6
+333,Kasun Patel,Yes,Yes,74.29,69.78,57.71,['Volleyball'],Music,Yes,Male,"Sharma, Kapoor, Vikram",History,Yes,4
+334,Nimesh Gamage,No,No,50.28,67.17,67.16,"['Swimming', 'Volleyball']",Photography,No,Female,"Mehta, Aman, Arjun",Art,Yes,4.5
+335,Aakash Mehta,No,Yes,68.29,71.88,59.53,"['Netball', 'Cricket']",Photography,No,Female,Verma,Art,Yes,2.7
+336,Gaurav Mehta,Yes,No,69.61,82.35,55.22,"['Volleyball', 'Rugby']",Reading,No,Female,Karan,Science,Yes,2.6
+337,Rhea Kapoor,Yes,Yes,55.38,82.52,56.35,['Volleyball'],Gardening,No,Female,Sharma,Science,No,2.9
+338,Rhea Patel,Yes,No,59.87,74.92,60.73,"['Volleyball', 'Football']",Writing,Yes,Female,"Rana, Mithun",Science,Yes,2.5
+339,Anil Singh,No,Yes,51.2,83.82,61.4,"['Swimming', 'Tennis']",Gardening,No,Male,Mohit,Science,No,4.9
+340,Sunil Raj,Yes,Yes,55.69,75.66,52.81,"['Tennis', 'Netball']",Dancing,Yes,Female,"Riya, Kunal, Kapoor",Art,No,3.8
+341,Kavita Singh,No,No,68.84,67.6,73.17,['Basketball'],Photography,No,Female,Vinay,Maths,Yes,3.2
+342,Sanjana Desai,Yes,Yes,58.91,82.88,51.76,['Volleyball'],Painting,No,Male,"Kaur, Vikas",Art,No,3.4
+343,Simran Kapoor,No,No,73.34,71.87,68.48,"['Netball', 'Swimming']",Music,No,Male,"Rao, Priyanka, Verma",Maths,No,4.1
+344,Arun Verma,No,No,70.49,72.88,66.1,"['Swimming', 'Netball']",Dancing,Yes,Female,"Patel, Rohit, Rohan",English,Yes,3.9
+345,Rohan Sharma,No,Yes,53.6,67.76,73.91,['Netball'],Gardening,Yes,Male,Kularatne,Art,No,2.7
+346,Nimesh Singh,Yes,No,56.13,83.45,70.47,"['Tennis', 'Football']",Gardening,No,Female,"Aditya, Ariyarathna, Priya",Science,No,2.7
+347,Priyanka Mehta,No,Yes,57.7,80.05,62.6,"['Basketball', 'Rugby']",Painting,Yes,Female,"Karan, Vikram, Singh",Maths,No,4.6
+348,Aman Patel,Yes,Yes,67.73,69.72,65.87,"['Rugby', 'Swimming']",Music,No,Male,"Patel, Neha",Science,Yes,4.7
+349,Simran Kularatne,Yes,Yes,72.06,75.42,70.16,['Netball'],Writing,No,Female,"Sharma, Raj, Sharma",English,Yes,4.2
+350,Ananya Mehta,Yes,Yes,52.73,78.07,60.27,"['Football', 'Tennis']",Cooking,Yes,Male,Sharma,Art,No,4.9
+351,Gaurav Sharma,Yes,No,74.63,79.26,69.33,"['Football', 'Cricket']",Cooking,Yes,Male,"Das, Aditya",History,No,4.9
+352,Vikas Mehta,No,Yes,57.98,65.15,72,"['Football', 'Swimming']",Dancing,No,Female,"Sejal, Rao, Rohan",Science,No,3.6
+353,Simran Singh,Yes,Yes,63.63,65.22,59.78,['Swimming'],Painting,No,Female,"Kavya, Rohan, Patel",Science,Yes,3.3
+354,Aakash Raj,Yes,No,50.58,74.84,54.16,"['Cricket', 'Tennis']",Music,Yes,Female,Desai,Science,No,4.9
+355,Priyanka Kularatne,No,No,52.44,74.64,50.2,"['Netball', 'Cricket']",Dancing,No,Male,"Singh, Singh, Mithun",History,Yes,2.5
+356,Naveen Mehta,No,No,69.45,67.51,50.2,"['Basketball', 'Cricket']",Dancing,No,Female,Rajesh,Art,Yes,2.6
+357,Nalini Desai,Yes,No,67.55,74.82,55.52,['Swimming'],Reading,No,Male,"Mehta, Desai, Sanjana",English,Yes,2.6
+358,Rajesh Raj,No,Yes,62.23,81.47,67.55,['Basketball'],Writing,No,Female,"Shruti, Desai, Kularatne",Art,Yes,5
+359,Nalini Mehta,Yes,Yes,74.32,83.12,56.03,['Swimming'],Writing,No,Male,"Rohan, Singh, Patel",English,Yes,2.8
+360,Priyanka Rana,Yes,No,63.75,67.71,67.76,['Volleyball'],Painting,Yes,Male,"Vikram, Dasun, Patel",History,No,4.6
+361,Neha Fernando,Yes,Yes,66.64,76.32,61.02,"['Volleyball', 'Netball']",Gardening,Yes,Female,"Mehta, Reena, Kasun",Art,Yes,2.7
+362,Manish Perera,Yes,Yes,58.62,81.16,72.25,['Basketball'],Writing,No,Female,"Desai, Neha, Ariyarathna",History,No,4.4
+363,Sanjana Verma,No,Yes,50.22,78.51,61.61,"['Cricket', 'Swimming']",Painting,No,Male,"Mehta, Rao, Patel",Science,No,4
+364,Karan Verma,No,Yes,62.12,76.69,72.17,"['Football', 'Netball']",Music,No,Male,"Pooja, Kapoor",English,No,4.1
+365,Kasun Sharma,No,Yes,62.63,75.08,69.97,"['Tennis', 'Cricket']",Dancing,No,Female,"Gaurav, Amara",Science,No,3
+366,Anjali Sharma,No,Yes,64.2,84.52,54.11,"['Volleyball', 'Rugby']",Photography,No,Male,Priyanka,Art,Yes,4.8
+367,Nimesh Patel,Yes,No,65.52,67.38,63.83,"['Volleyball', 'Swimming']",Gardening,No,Male,Vikram,Science,Yes,2.6
+368,Sanjana Kapoor,Yes,No,66.73,70.4,50.46,"['Football', 'Tennis']",Cooking,No,Female,Amara,Science,No,4.8
+369,Sunil Sharma,Yes,Yes,67.65,78.47,55.63,"['Netball', 'Volleyball']",Photography,Yes,Female,"Das, Mohit",Science,No,3.3
+370,Aman Mehta,Yes,No,64.91,80.71,72.69,"['Rugby', 'Netball']",Gardening,No,Male,"Mehta, Rana, Kapoor",Maths,No,4.2
+371,Amara Patel,No,No,71.03,67.5,68.69,"['Football', 'Tennis']",Dancing,No,Female,"Patel, Desai, Sharma",History,Yes,2.6
+372,Sneha Mehta,Yes,Yes,69.48,77.27,69.47,['Football'],Painting,No,Male,Raj,English,No,4.8
+373,Karan Mehta,Yes,Yes,72.4,77.52,70.96,['Basketball'],Photography,Yes,Male,"Mehta, Anushka, Kasun",History,Yes,3.8
+374,Riya Silva,No,No,50.76,81.18,54.08,"['Football', 'Volleyball']",Writing,No,Female,Gaurav,History,No,3.3
+375,Sanjana Singh,No,Yes,59.65,80.48,73.31,"['Cricket', 'Basketball']",Gardening,Yes,Female,"Kularatne, Desai, Karan",History,Yes,2.6
+376,Dasun Mehta,Yes,No,50.58,81.84,59.62,"['Volleyball', 'Swimming']",Gardening,Yes,Female,"Desai, Singh, Pooja",Art,Yes,2.6
+377,Gaurav Patel,Yes,Yes,54.7,68.3,66.08,['Volleyball'],Reading,Yes,Male,"Desai, Rohit, Verma",Maths,Yes,4.4
+378,Gaurav Rao,Yes,Yes,64.38,75.1,63.15,['Rugby'],Gardening,No,Female,Dasun,History,No,2.9
+379,Arjun Patel,Yes,Yes,74.71,65.68,65.12,"['Volleyball', 'Netball']",Cooking,No,Female,Desai,Science,No,2.5
+380,Sunil Nair,Yes,Yes,64.79,67.27,63.28,"['Tennis', 'Swimming']",Painting,No,Female,"Desai, Naveen, Raj",Maths,Yes,2.6
+381,Karan Sharma,No,No,73.45,78.53,73.23,['Tennis'],Cooking,Yes,Female,"Rohan, Rhea, Kavya",English,No,4.9
+382,Anil Patel,No,Yes,74.07,67.14,56.19,"['Rugby', 'Basketball']",Reading,Yes,Female,"Aman, Kavya",History,No,2.7
+383,Nimesh Patel,Yes,No,68.17,82.89,73.26,"['Cricket', 'Swimming']",Playing guitar,Yes,Male,"Verma, Neha",English,No,3
+384,Dev Singh,No,No,73.77,67.84,74.57,"['Basketball', 'Swimming']",Cooking,Yes,Male,"Rao, Priya",History,No,4
+385,Kavya Mehta,Yes,Yes,55.7,68.68,62.92,['Football'],Writing,Yes,Male,Nair,Maths,Yes,4.6
+386,Sneha Sharma,No,Yes,53.68,84.1,58.72,"['Tennis', 'Volleyball']",Dancing,No,Female,"Aditya, Nair",Art,No,3.6
+387,Sanjana Mehta,Yes,No,62.13,73.13,52.62,['Basketball'],Playing guitar,No,Female,"Desai, Nalini",History,Yes,4.5
+388,Aditya Verma,No,No,67.39,68.42,62.7,['Swimming'],Writing,No,Female,"Sneha, Singh, Vikas",Art,Yes,3.5
+389,Vikram Singh,Yes,Yes,65.63,83.84,73.55,['Basketball'],Music,No,Male,"Dasun, Mehta, Rohan",History,Yes,2.6
+390,Vikas Nair,Yes,No,58.77,84.47,68.26,['Basketball'],Playing guitar,No,Female,"Verma, Singh, Shruti",Science,No,3.3
+391,Karan Patel,Yes,No,65.48,73,70.43,['Rugby'],Gardening,No,Female,"Rohit, Sanjana, Gamage",Art,Yes,3.4
+392,Mithun Verma,No,No,52.12,74.71,64.98,"['Netball', 'Swimming']",Gardening,No,Female,Rana,History,Yes,4.9
+393,Vikram Patel,No,No,67.28,69.41,57.77,['Tennis'],Painting,Yes,Female,Patel,Science,Yes,4.7
+394,Sunil Desai,No,Yes,70.75,74.87,59.89,['Rugby'],Reading,Yes,Male,Anushka,History,No,2.7
+395,Sanjana Mehta,Yes,No,52.16,65.34,53.24,"['Football', 'Tennis']",Reading,No,Male,Singh,English,Yes,4.7
+396,Nimesh Desai,No,No,70.51,76.32,54.18,"['Football', 'Netball']",Dancing,No,Female,"Patel, Kapoor, Vikas",Science,Yes,3.5
+397,Nalini Singh,No,Yes,58.61,77.92,64.6,"['Swimming', 'Football']",Cooking,No,Male,Dasun,Maths,Yes,3.7
+398,Anil Mehta,Yes,Yes,54.58,66.66,61.38,['Volleyball'],Gardening,No,Male,"Gaurav, Verma",Maths,Yes,4.5
+399,Dev Sharma,No,No,55.97,77.53,73.55,['Cricket'],Music,Yes,Female,"Raj, Kapoor",English,No,3.9
+400,Anushka Singh,Yes,Yes,58.75,66.57,65.51,"['Rugby', 'Tennis']",Cooking,No,Female,"Singh, Sharma, Kasun",English,No,4.9
+401,Vinay Mehta,Yes,Yes,55.25,76.49,61.72,['Volleyball'],Writing,No,Male,"Desai, Nair, Raj",Science,Yes,2.8
+402,Mithun Kularatne,Yes,No,72.48,65.27,50.73,['Netball'],Playing guitar,Yes,Female,"Fernando, Raj",English,Yes,3.6
+403,Kavita Raj,No,No,65.39,70.97,50.15,['Swimming'],Reading,No,Male,"Pooja, Dev",English,No,2.8
+404,Kasun Sharma,No,Yes,65.12,76.94,66.68,"['Basketball', 'Cricket']",Writing,No,Male,"Anushka, Sharma",Maths,Yes,3.5
+405,Arjun Raj,Yes,Yes,52.59,69,65.95,['Netball'],Reading,Yes,Male,Karan,English,Yes,4
+406,Vinay Raj,No,Yes,58.49,82.66,50.54,['Football'],Cooking,No,Female,"Singh, Manish",Science,Yes,4.4
+407,Priyanka Mehta,Yes,Yes,56.64,78.22,70.85,"['Volleyball', 'Basketball']",Writing,Yes,Female,"Amara, Neha, Ariyarathna",English,No,3.6
+408,Mohit Singh,No,No,53.46,81.32,57.19,"['Cricket', 'Football']",Writing,Yes,Male,"Verma, Raj",History,Yes,3.9
+409,Reena Raj,No,No,74.18,68.58,52.29,"['Cricket', 'Tennis']",Music,Yes,Female,"Kapoor, Vikram",Science,No,2.9
+410,Anushka Singh,No,Yes,51.71,72.35,74.56,"['Volleyball', 'Cricket']",Cooking,No,Female,"Singh, Raj, Sharma",Maths,Yes,2.9
+411,Dev Kapoor,Yes,Yes,58.18,70.16,74.65,"['Football', 'Tennis']",Playing guitar,No,Female,"Raj, Karan",History,No,2.6
+412,Sejal Desai,Yes,Yes,62.04,79.87,51.71,"['Tennis', 'Volleyball']",Writing,No,Female,"Singh, Mehta, Gaurav",Maths,Yes,4.7
+413,Rajesh Kularatne,No,Yes,58.31,66.99,54.91,"['Netball', 'Swimming']",Writing,No,Female,"Manish, Kapoor, Amara",History,Yes,4.9
+414,Kasun Singh,Yes,No,57.74,67.51,63,['Rugby'],Cooking,Yes,Female,"Karan, Silva, Anil",Maths,Yes,3.1
+415,Aman Sharma,Yes,Yes,64.65,66.06,67.4,['Football'],Reading,Yes,Female,"Patel, Desai, Raj",Art,Yes,4.5
+416,Anil Sharma,No,Yes,57.85,83.91,53.16,"['Football', 'Basketball']",Dancing,No,Male,Sharma,Science,Yes,3.3
+417,Kavita Kaur,Yes,No,58.56,81.39,70.46,"['Netball', 'Cricket']",Gardening,Yes,Male,"Kapoor, Sharma",Maths,No,2.7
+418,Reena Sharma,Yes,No,56.32,70.95,70.86,['Cricket'],Photography,Yes,Female,Aakash,History,No,2.9
+419,Riya Raj,Yes,Yes,55.32,78.77,61.88,['Cricket'],Writing,No,Male,"Naveen, Mithun",Science,No,3.8
+420,Aditya Sharma,No,No,73.76,84.16,59.87,"['Cricket', 'Basketball']",Cooking,No,Female,"Rohit, Gamage",English,No,4.3
+421,Arun Desai,No,No,70.4,68.57,51.87,['Cricket'],Cooking,Yes,Male,Aakash,Art,No,4.6
+422,Anushka Sharma,No,Yes,68.04,82.11,65.42,"['Tennis', 'Cricket']",Photography,Yes,Male,"Verma, Raj, Rohan",Art,No,3.9
+423,Anushka Ariyarathna,Yes,No,69.49,68.28,69.05,['Rugby'],Playing guitar,Yes,Male,"Ananya, Arun",History,Yes,2.9
+424,Rohit Verma,No,No,71.38,70.6,58.77,"['Netball', 'Tennis']",Writing,Yes,Female,"Mohit, Kaur, Anjali",Science,Yes,3.8
+425,Ananya Rana,Yes,Yes,55.28,79.95,64.84,['Basketball'],Playing guitar,Yes,Male,"Gaurav, Singh, Mehta",Science,No,3.2
+426,Reena Ariyarathna,No,No,56.12,83.28,69.38,['Basketball'],Gardening,No,Female,"Singh, Sneha",History,No,4.3
+427,Rohan Mehta,Yes,No,63.9,81.28,65.23,['Volleyball'],Dancing,Yes,Female,Aditya,History,Yes,5
+428,Arun Mehta,Yes,No,63.7,68.92,56.15,"['Cricket', 'Football']",Writing,Yes,Male,"Rohit, Dev",History,Yes,4.5
+429,Mithun Ariyarathna,No,No,55.05,75.62,56.14,['Basketball'],Painting,Yes,Female,Anil,Science,No,2.7
+430,Rohan Patel,Yes,Yes,53.06,70.07,63.93,"['Basketball', 'Netball']",Playing guitar,Yes,Female,"Rajesh, Mehta",Science,Yes,3.7
+431,Ananya Sharma,Yes,Yes,51.76,69.01,60.2,"['Netball', 'Basketball']",Painting,Yes,Female,"Sneha, Dev",History,No,2.6
+432,Gaurav Mehta,No,No,55.61,78.43,65.06,"['Tennis', 'Cricket']",Gardening,Yes,Male,"Patel, Mohit",History,Yes,4.2
+433,Dev Sharma,No,Yes,66.73,84.52,73.03,['Football'],Painting,No,Male,"Kunal, Perera",History,No,4.7
+434,Reena Raj,No,No,62.67,73.18,56.15,"['Swimming', 'Football']",Music,Yes,Male,"Raj, Vikas, Kapoor",Science,Yes,2.7
+435,Anjali Desai,No,Yes,60.53,84.43,58.99,"['Netball', 'Tennis']",Cooking,Yes,Female,"Vinay, Mohit",Maths,Yes,3.2
+436,Kunal Raj,Yes,No,62.71,79.78,74.75,"['Basketball', 'Rugby']",Reading,No,Male,"Sneha, Verma, Raj",Science,No,4.4
+437,Anushka Singh,Yes,No,72.47,75.58,52.6,"['Football', 'Rugby']",Cooking,Yes,Female,Aman,History,Yes,3.6
+438,Pooja Raj,No,No,56.67,77.86,52.95,['Football'],Writing,Yes,Female,Riya,English,Yes,3.2
+439,Shruti Singh,Yes,Yes,52.57,81.26,58.33,"['Tennis', 'Volleyball']",Playing guitar,Yes,Female,Rahul,Maths,No,3
+440,Amara Verma,No,No,52.19,79.54,51.52,"['Netball', 'Volleyball']",Gardening,Yes,Male,"Das, Aditya",History,Yes,3.4
+441,Karan Ariyarathna,No,Yes,65.4,73.35,73.23,"['Tennis', 'Cricket']",Playing guitar,No,Male,"Raj, Desai",English,No,3.1
+442,Sanjana Silva,Yes,No,51.29,81.59,71.63,"['Cricket', 'Swimming']",Painting,Yes,Female,Das,Science,Yes,4.8
+443,Priyanka Sharma,No,Yes,58.16,66.92,56.95,['Rugby'],Reading,Yes,Male,"Mehta, Rao",English,No,3.3
+444,Reena Sharma,Yes,Yes,70.68,71.52,54.53,['Rugby'],Writing,Yes,Male,"Kapoor, Simran, Raj",Art,Yes,4
+445,Aman Fernando,No,No,73.29,83.73,64.28,['Netball'],Painting,No,Female,"Gamage, Rao, Mehta",Art,Yes,4.6
+446,Vinay Mehta,No,Yes,56.66,79.61,73.82,['Rugby'],Gardening,Yes,Male,"Rajesh, Arun, Raj",English,No,4.3
+447,Priyanka Mehta,No,Yes,72.86,71.33,58.22,"['Football', 'Swimming']",Writing,No,Female,"Anil, Priyanka",Art,No,4.3
+448,Anjali Kapoor,Yes,No,61.18,71.18,50.81,"['Volleyball', 'Football']",Reading,No,Male,"Desai, Dasun",English,Yes,4.7
+449,Anil Singh,No,Yes,59.27,66.55,60.71,['Volleyball'],Music,Yes,Male,"Silva, Verma, Anjali",Maths,No,3.1
+450,Aman Desai,Yes,Yes,56.64,67.96,71.38,['Cricket'],Writing,No,Male,"Raj, Kasun",Science,Yes,3.3
+451,Arjun Verma,No,No,62.34,72.39,67.57,"['Rugby', 'Basketball']",Cooking,No,Female,"Patel, Mohit",English,Yes,4.5
+452,Kavya Verma,No,Yes,69.49,65.33,64.26,"['Cricket', 'Netball']",Reading,Yes,Male,"Singh, Nimesh, Verma",English,No,3.5
+453,Arjun Kaur,Yes,Yes,72.7,72.06,53.69,['Rugby'],Painting,Yes,Male,"Simran, Kularatne, Verma",History,No,4
+454,Rahul Kapoor,Yes,Yes,68.8,67.03,62.28,"['Football', 'Volleyball']",Gardening,Yes,Female,"Priyanka, Verma, Verma",Science,No,3.3
+455,Neha Rao,No,No,59.8,79.09,72.57,"['Cricket', 'Swimming']",Playing guitar,No,Male,"Neha, Naveen",English,Yes,4.8
+456,Kavya Mehta,Yes,Yes,57.16,69.78,51.65,['Rugby'],Photography,No,Female,Desai,Art,No,5
+457,Aditya Mehta,No,Yes,64.31,71.73,64.31,['Basketball'],Reading,No,Male,"Kavya, Desai",History,Yes,3.1
+458,Rhea Gamage,Yes,Yes,66.78,85,53.64,"['Rugby', 'Football']",Dancing,No,Male,"Riya, Mehta",English,Yes,3
+459,Shruti Raj,No,Yes,58.04,73.87,58.05,['Basketball'],Music,Yes,Female,"Gamage, Silva, Sneha",Science,No,2.7
+460,Rhea Verma,Yes,No,72,74.24,53.85,['Volleyball'],Writing,No,Male,"Verma, Verma, Singh",Art,No,2.7
+461,Anil Rao,No,No,67.26,73.07,58.01,['Football'],Gardening,Yes,Female,"Rana, Das, Singh",Maths,No,4.9
+462,Nimesh Mehta,Yes,No,51.37,82.17,55.8,['Cricket'],Reading,Yes,Male,"Silva, Rohan, Arun",Science,No,3.5
+463,Mithun Sharma,No,Yes,51.22,73.61,59.32,['Swimming'],Photography,No,Male,"Arjun, Desai, Fernando",History,Yes,3.1
+464,Anil Ariyarathna,Yes,Yes,70.87,71.07,61.01,"['Cricket', 'Tennis']",Cooking,Yes,Male,"Priya, Rahul, Ananya",Science,No,3.3
+465,Rohit Ariyarathna,No,No,66.71,67.88,65.12,['Swimming'],Dancing,No,Female,"Anushka, Fernando, Sneha",Maths,No,3.3
+466,Aditya Singh,No,No,65.53,76.72,61,"['Football', 'Rugby']",Writing,No,Female,Singh,Art,Yes,3.3
+467,Aditya Mehta,No,Yes,67.11,75.45,67.16,"['Swimming', 'Volleyball']",Gardening,No,Female,Fernando,History,No,3.2
+468,Kavya Kapoor,Yes,Yes,73.49,77.2,65.86,"['Tennis', 'Volleyball']",Dancing,No,Female,"Kapoor, Anushka",Science,Yes,3.7
+469,Kavya Gamage,No,Yes,68.37,70.82,67.03,"['Cricket', 'Football']",Writing,Yes,Male,"Kularatne, Singh",Science,Yes,4.4
+470,Ananya Singh,Yes,No,58.67,76.88,74.5,['Football'],Reading,Yes,Female,Rahul,History,No,3.9
+471,Mithun Raj,Yes,Yes,65.63,81.92,58.02,['Volleyball'],Gardening,Yes,Female,"Vinay, Neha, Singh",History,Yes,2.5
+472,Nalini Raj,Yes,Yes,51.61,78.07,52.25,['Cricket'],Playing guitar,Yes,Female,"Nair, Kapoor",Art,Yes,3
+473,Sunil Silva,No,Yes,66.73,75.27,52.15,['Volleyball'],Cooking,Yes,Female,"Rohan, Sharma",English,Yes,4.6
+474,Shruti Sharma,Yes,No,73.98,77.06,63.13,['Netball'],Cooking,Yes,Male,Sharma,History,Yes,3.4
+475,Sanjana Singh,Yes,Yes,56.2,76.15,70.88,"['Netball', 'Cricket']",Painting,Yes,Male,"Anil, Kapoor, Gaurav",History,No,2.8
+476,Rohit Mehta,Yes,No,67.66,75.13,55.32,"['Football', 'Rugby']",Writing,No,Female,"Verma, Mehta, Sneha",Maths,No,2.8
+477,Dev Kapoor,Yes,Yes,64.19,65.36,51.08,['Rugby'],Reading,No,Male,"Sharma, Vikas",Maths,No,4.4
+478,Aman Singh,Yes,Yes,52.85,76.06,59.94,"['Tennis', 'Cricket']",Playing guitar,No,Male,"Rao, Manish, Simran",Art,Yes,2.8
+479,Vikas Patel,Yes,Yes,71.21,70.64,55.5,"['Football', 'Volleyball']",Music,Yes,Female,"Ananya, Desai, Patel",Art,Yes,4
+480,Shruti Silva,No,Yes,60.61,70.23,60.93,['Netball'],Cooking,Yes,Female,Raj,English,No,3.8
+481,Sanjana Verma,No,Yes,54.45,81.26,52.71,"['Tennis', 'Rugby']",Painting,No,Male,"Mohit, Sanjana, Aditya",History,No,4.2
+482,Pooja Singh,No,Yes,69.4,66.79,61,['Basketball'],Reading,No,Male,"Verma, Kavita",English,Yes,3.1
+483,Manish Kapoor,Yes,Yes,54.3,82.77,53.01,['Tennis'],Reading,Yes,Female,"Simran, Singh, Verma",Art,No,4.3
+484,Neha Patel,Yes,No,60.49,69.61,50.16,['Swimming'],Dancing,No,Female,"Verma, Sharma",Art,Yes,3.2
+485,Shreya Rana,No,Yes,55.77,70.95,63.64,['Rugby'],Playing guitar,Yes,Female,"Singh, Kasun",Art,No,3.2
+486,Dasun Desai,No,Yes,58.49,77.64,60.79,['Football'],Reading,No,Female,"Singh, Kapoor",Art,Yes,3.1
+487,Dev Fernando,No,No,55.28,74,51.89,['Cricket'],Playing guitar,Yes,Male,"Vikas, Patel",Maths,Yes,4.7
+488,Anil Singh,No,Yes,69.3,78.06,53.87,['Rugby'],Gardening,Yes,Male,"Fernando, Mohit, Dev",History,Yes,2.5
+489,Kavya Kularatne,Yes,No,58.7,72.61,62.24,['Football'],Reading,No,Male,"Sharma, Desai",Art,Yes,3.1
+490,Kavita Fernando,No,No,56.45,83.44,64.25,"['Tennis', 'Netball']",Gardening,No,Male,Sharma,Art,Yes,3.5
+491,Vikas Raj,No,Yes,66.41,84.55,52.1,"['Tennis', 'Football']",Playing guitar,No,Female,"Sanjana, Arjun, Kularatne",History,No,3.7
+492,Naveen Singh,No,Yes,65.31,74.58,56.62,['Cricket'],Photography,Yes,Male,Mohit,History,No,4.7
+493,Arun Das,No,No,58.84,78.53,69.41,"['Basketball', 'Football']",Photography,Yes,Male,Anil,Maths,Yes,4.9
+494,Kasun Raj,No,No,61.33,84.27,58.2,"['Football', 'Basketball']",Painting,Yes,Male,Kapoor,Art,Yes,3.2
+495,Ananya Fernando,Yes,No,70.62,77.5,64.85,"['Volleyball', 'Cricket']",Painting,No,Female,"Arun, Das",English,No,2.6
+496,Vikram Kapoor,Yes,Yes,73.79,66.44,65.66,"['Rugby', 'Cricket']",Dancing,No,Female,"Verma, Desai",History,Yes,4.8
+497,Riya Kapoor,No,No,52.55,74.38,52.91,"['Swimming', 'Basketball']",Reading,Yes,Female,Silva,Maths,Yes,3.6
+498,Vikram Perera,Yes,Yes,52.71,81.63,52.2,['Rugby'],Photography,No,Male,Nimesh,English,No,3.1
+499,Vikas Raj,No,Yes,53.08,84.98,72.89,"['Tennis', 'Basketball']",Photography,Yes,Male,"Mehta, Arjun",English,Yes,4.4
+500,Rohan Mehta,Yes,No,52.61,80.02,57.7,['Cricket'],Playing guitar,Yes,Male,"Sanjana, Verma, Kavya",Maths,Yes,3.6
+501,Reena Sharma,Yes,No,70.06,78.97,68.57,['Volleyball'],Reading,Yes,Female,"Singh, Singh",Science,No,3.5
+502,Sneha Sharma,Yes,Yes,61.72,75.45,74.75,"['Netball', 'Basketball']",Photography,No,Male,"Rao, Anushka",Art,No,5
+503,Manish Das,Yes,No,70.37,70.31,52.67,['Basketball'],Gardening,No,Female,"Raj, Sharma, Vikram",Science,No,4.6
+504,Manish Singh,No,Yes,72.74,72.35,54.21,"['Cricket', 'Volleyball']",Reading,No,Male,Desai,English,No,3
+505,Shreya Mehta,No,Yes,72.72,76.45,55.6,['Swimming'],Playing guitar,No,Male,Mithun,Maths,Yes,4.5
+506,Anil Rao,Yes,No,50.52,79.6,58.75,"['Swimming', 'Volleyball']",Gardening,Yes,Female,Nimesh,Science,Yes,3.8
+507,Aditya Patel,Yes,Yes,68.34,66.78,61.59,"['Basketball', 'Volleyball']",Dancing,Yes,Female,Simran,Maths,Yes,3.8
+508,Sanjana Sharma,Yes,Yes,65.73,81.55,52.01,['Netball'],Reading,Yes,Female,"Mehta, Das, Sanjana",English,Yes,3.9
+509,Amara Rana,No,No,51.05,82.19,67.97,['Swimming'],Music,Yes,Female,"Mehta, Patel",History,Yes,4.9
+510,Reena Patel,No,No,60.91,78.16,56.08,"['Netball', 'Cricket']",Playing guitar,Yes,Female,"Kularatne, Raj",History,No,2.5
+511,Aman Raj,No,Yes,65.73,79.97,53.13,['Tennis'],Writing,Yes,Male,"Reena, Arjun, Patel",Science,Yes,5
+512,Rahul Desai,No,No,53.63,71.22,50.45,"['Cricket', 'Netball']",Reading,No,Male,"Sharma, Kularatne",Art,Yes,2.6
+513,Arun Raj,No,Yes,57.99,65.9,73.63,"['Tennis', 'Netball']",Dancing,No,Female,"Gaurav, Nair, Gamage",Art,No,2.7
+514,Rhea Raj,No,Yes,54.02,76.45,67,['Netball'],Dancing,Yes,Male,Verma,History,Yes,3.3
+515,Priyanka Singh,Yes,Yes,50.76,71.03,65.09,['Rugby'],Playing guitar,No,Male,"Patel, Patel, Anil",Science,No,3
+516,Nimesh Sharma,No,No,58.7,73.43,71.13,['Tennis'],Playing guitar,No,Female,Silva,Science,Yes,4.4
+517,Rohan Patel,Yes,No,69.9,79.16,70.08,['Rugby'],Dancing,No,Male,"Shreya, Kavya, Singh",Maths,No,3.9
+518,Nalini Silva,Yes,No,60.86,71.89,51.4,['Tennis'],Gardening,No,Female,Priya,English,Yes,4.8
+519,Rahul Rana,Yes,No,64.66,83.46,66.25,['Volleyball'],Reading,Yes,Female,"Patel, Vikram, Patel",Science,No,3.8
+520,Rajesh Singh,No,No,54.05,71.09,72.6,"['Rugby', 'Cricket']",Music,No,Male,Mohit,Art,Yes,2.9
+521,Reena Verma,No,Yes,57.5,72.36,60.66,"['Rugby', 'Netball']",Photography,No,Male,"Fernando, Priyanka, Mehta",English,Yes,2.7
+522,Arjun Mehta,No,Yes,59.21,70.01,50.19,['Football'],Writing,Yes,Male,"Rajesh, Anjali",Art,No,2.6
+523,Simran Mehta,Yes,No,64.66,81.33,57.24,"['Tennis', 'Football']",Playing guitar,Yes,Female,"Sneha, Rao, Naveen",Maths,No,3.4
+524,Nalini Verma,Yes,Yes,55.32,81.02,66.05,"['Tennis', 'Rugby']",Reading,Yes,Male,"Sejal, Singh",English,Yes,3.4
+525,Shreya Kaur,No,No,56.89,84.34,65.38,['Basketball'],Gardening,No,Female,"Nimesh, Neha",Science,No,3
+526,Neha Sharma,Yes,Yes,52.12,79.45,63.91,"['Cricket', 'Rugby']",Gardening,Yes,Male,Simran,Science,No,4.7
+527,Naveen Sharma,No,Yes,50.7,74.42,50.06,['Swimming'],Music,Yes,Male,Kapoor,History,Yes,3.3
+528,Naveen Singh,Yes,No,66.34,73.73,51.53,"['Football', 'Swimming']",Photography,Yes,Male,"Rohan, Kunal",Art,Yes,3.8
+529,Karan Patel,No,Yes,73.57,80.58,58.88,['Tennis'],Photography,No,Male,"Patel, Mehta, Sneha",Science,Yes,4
+530,Vinay Raj,No,Yes,57.55,67.31,58.33,"['Netball', 'Football']",Music,No,Male,"Sharma, Rohan, Raj",Maths,No,4.8
+531,Aman Das,No,Yes,61.87,67,50.15,"['Netball', 'Rugby']",Cooking,No,Female,"Sharma, Singh, Singh",History,Yes,4.4
+532,Vikas Fernando,No,No,70.72,73.18,66.9,['Cricket'],Gardening,Yes,Female,"Amara, Raj",Science,No,4.5
+533,Reena Sharma,No,Yes,57.59,72.24,72.69,"['Volleyball', 'Netball']",Gardening,Yes,Female,"Arjun, Desai, Neha",Art,Yes,4.8
+534,Pooja Fernando,Yes,Yes,55.02,67.28,56.88,['Football'],Playing guitar,Yes,Female,Rao,English,No,2.7
+535,Sanjana Sharma,Yes,Yes,71.25,83.09,66.31,"['Netball', 'Football']",Dancing,Yes,Female,"Patel, Sharma",English,No,4.3
+536,Manish Nair,Yes,No,50.92,75.19,69.51,"['Football', 'Volleyball']",Reading,No,Female,"Kapoor, Sunil",History,No,3.6
+537,Aditya Sharma,No,No,73.08,70.11,72.09,['Cricket'],Photography,No,Female,"Fernando, Sunil, Priyanka",History,Yes,4.8
+538,Dasun Kaur,Yes,No,50.71,77.13,57.17,"['Volleyball', 'Swimming']",Gardening,No,Male,"Fernando, Mehta",English,No,3.5
+539,Rohan Raj,Yes,Yes,70.29,67.19,58.41,['Football'],Gardening,Yes,Male,"Sanjana, Nalini",English,Yes,3.8
+540,Sejal Nair,No,Yes,65.77,72.78,65.36,['Basketball'],Dancing,Yes,Male,Desai,English,Yes,4.6
+541,Anjali Patel,Yes,No,53.11,81.37,71.59,['Basketball'],Photography,Yes,Female,"Perera, Raj, Priya",Art,Yes,4.7
+542,Nalini Silva,Yes,No,58.59,71.49,53.75,['Netball'],Gardening,Yes,Female,Kaur,History,Yes,3.9
+543,Vikas Singh,No,No,72.76,84.39,55.67,"['Football', 'Volleyball']",Gardening,No,Male,"Singh, Amara, Priyanka",Maths,No,3.8
+544,Dasun Kaur,Yes,No,63.23,71.36,59.26,['Basketball'],Cooking,No,Male,Riya,Science,No,2.9
+545,Sanjana Patel,Yes,Yes,74.17,83.91,53.51,"['Netball', 'Cricket']",Gardening,Yes,Male,"Raj, Naveen, Mehta",Science,No,4.6
+546,Simran Perera,No,No,74.33,84.52,61.38,"['Tennis', 'Rugby']",Playing guitar,Yes,Male,Neha,History,No,5
+547,Mithun Singh,Yes,No,50.9,71.36,66.63,"['Cricket', 'Swimming']",Cooking,Yes,Male,"Verma, Mehta, Vikram",Art,Yes,2.5
+548,Kavita Perera,Yes,No,56.1,72.95,57.38,"['Rugby', 'Swimming']",Gardening,Yes,Male,"Shruti, Rohan",English,No,3.6
+549,Naveen Sharma,Yes,No,71.69,81.38,57.26,['Football'],Cooking,Yes,Female,"Vikas, Mehta, Riya",English,Yes,2.6
+550,Riya Kapoor,Yes,No,57.8,65.84,65.58,['Basketball'],Playing guitar,Yes,Male,"Mehta, Mohit, Desai",Maths,No,3.5
+551,Rohan Verma,No,Yes,62.85,68.86,65.98,"['Tennis', 'Cricket']",Photography,Yes,Male,"Aman, Shruti",Science,No,3.4
+552,Vikram Kapoor,No,No,70.66,68.99,68.81,"['Football', 'Cricket']",Cooking,No,Female,"Reena, Sanjana, Anushka",English,No,4.7
+553,Sunil Kapoor,No,Yes,72.7,75.48,65.01,['Basketball'],Music,Yes,Female,"Vinay, Manish, Das",Science,Yes,4
+554,Aditya Singh,Yes,No,71.62,80.43,63.68,['Football'],Dancing,Yes,Female,Priyanka,Art,Yes,4.2
+555,Riya Gamage,No,Yes,52.33,65.89,69.12,"['Rugby', 'Netball']",Writing,No,Female,"Mohit, Singh",History,Yes,4.9
+556,Aakash Sharma,Yes,No,68.53,76.59,65.51,['Rugby'],Cooking,Yes,Female,"Sanjana, Sharma, Perera",Science,Yes,4.2
+557,Ananya Desai,Yes,Yes,54.2,71.51,55.63,['Rugby'],Reading,Yes,Female,"Kapoor, Singh",English,No,3.2
+558,Nalini Sharma,Yes,No,71.3,78.4,60.44,"['Football', 'Cricket']",Playing guitar,Yes,Female,"Gaurav, Singh, Kavita",Art,No,4.7
+559,Rohit Patel,No,Yes,53.79,69.1,51.04,"['Rugby', 'Football']",Cooking,Yes,Male,Kapoor,English,No,4.6
+560,Neha Verma,Yes,Yes,60.6,80.21,62.46,['Basketball'],Playing guitar,Yes,Male,Kapoor,Science,No,2.8
+561,Amara Sharma,Yes,No,61.42,75.23,57.6,"['Tennis', 'Rugby']",Painting,No,Male,Nair,English,No,2.5
+562,Rohan Kapoor,No,Yes,63.35,69.88,69.43,"['Swimming', 'Volleyball']",Photography,Yes,Male,"Desai, Singh, Karan",English,No,4.1
+563,Manish Kaur,No,No,59.93,77.42,69.9,"['Tennis', 'Netball']",Reading,Yes,Male,Vikram,Science,No,4.1
+564,Dasun Mehta,No,No,69.41,71.26,68.08,['Cricket'],Cooking,Yes,Female,Gaurav,English,No,4.7
+565,Rajesh Raj,Yes,No,61.09,71.74,67.43,['Swimming'],Writing,No,Female,"Rajesh, Mehta, Kapoor",Science,Yes,4
+566,Sunil Silva,Yes,Yes,65.24,67.58,59.83,['Volleyball'],Photography,Yes,Male,Mithun,Maths,Yes,4.6
+567,Dasun Sharma,Yes,No,67.01,77.45,51.45,"['Netball', 'Volleyball']",Photography,No,Male,"Verma, Rhea",Science,No,2.8
+568,Sanjana Singh,Yes,Yes,52.26,77.4,60.27,['Cricket'],Reading,Yes,Male,"Raj, Patel, Sanjana",Maths,No,4.8
+569,Karan Perera,Yes,Yes,68.68,82.02,70.09,"['Rugby', 'Basketball']",Cooking,Yes,Male,Nimesh,English,Yes,4.4
+570,Kunal Kapoor,No,No,70.58,73.04,72.5,"['Football', 'Volleyball']",Reading,No,Male,"Patel, Mithun, Vikas",English,Yes,2.9
+571,Mohit Desai,No,Yes,51.81,77.56,58.09,"['Football', 'Volleyball']",Music,Yes,Female,"Kapoor, Rhea, Aditya",History,No,4.3
+572,Anjali Singh,No,No,73.26,74.65,54.19,"['Tennis', 'Basketball']",Writing,Yes,Female,"Simran, Sanjana",Art,No,2.6
+573,Neha Raj,No,No,54.33,75.85,53.45,"['Basketball', 'Cricket']",Playing guitar,Yes,Male,Raj,Art,Yes,3.8
+574,Rahul Singh,Yes,Yes,66.05,75.64,70.63,['Volleyball'],Writing,No,Male,"Singh, Gamage, Sanjana",Art,Yes,4.6
+575,Dev Gamage,No,Yes,50.32,70.82,73.75,"['Rugby', 'Netball']",Cooking,Yes,Female,"Rajesh, Patel",Science,No,3.5
+576,Kavita Patel,Yes,No,54.1,65.53,71.64,['Volleyball'],Reading,No,Female,Manish,History,No,4
+577,Kavya Patel,Yes,Yes,69.85,80.43,66.13,['Cricket'],Reading,Yes,Female,Raj,Art,Yes,3
+578,Rhea Ariyarathna,Yes,Yes,63,75.01,62.37,['Volleyball'],Painting,No,Male,"Sharma, Vinay, Singh",Maths,No,3.8
+579,Anil Gamage,Yes,No,73.3,75.82,51.41,['Netball'],Music,No,Female,Rao,History,Yes,3.3
+580,Mithun Verma,No,No,67.18,84.56,51.32,"['Rugby', 'Basketball']",Photography,Yes,Male,Simran,Maths,Yes,3
+581,Anjali Kapoor,No,No,57.19,84.96,60.29,"['Rugby', 'Cricket']",Writing,Yes,Male,Sharma,English,Yes,4.5
+582,Ananya Verma,No,No,59.2,66.62,72.27,"['Swimming', 'Basketball']",Reading,No,Male,"Priya, Mehta",Science,Yes,3.7
+583,Ananya Kapoor,Yes,Yes,56.3,84.87,70.89,['Cricket'],Gardening,No,Female,Patel,History,No,4.7
+584,Priya Verma,No,No,55.58,65.63,66.03,"['Netball', 'Rugby']",Photography,Yes,Female,Silva,Art,Yes,3.4
+585,Shreya Patel,No,No,50.27,74.29,56.12,['Basketball'],Writing,Yes,Male,"Kavita, Nimesh, Patel",Science,No,4.6
+586,Rajesh Mehta,Yes,No,73.36,70.88,53.74,['Rugby'],Reading,No,Female,Verma,Maths,Yes,3
+587,Manish Mehta,No,Yes,61.38,69.07,60.19,"['Swimming', 'Volleyball']",Reading,No,Female,"Nalini, Karan",English,Yes,3.8
+588,Kasun Desai,No,Yes,67.2,67.39,50.43,['Volleyball'],Cooking,No,Female,Patel,Art,No,4.8
+589,Vikram Desai,Yes,Yes,55.95,68.16,71.31,['Netball'],Cooking,Yes,Female,"Rahul, Amara",Art,No,3.1
+590,Rhea Nair,Yes,Yes,71.61,67.84,72.47,['Netball'],Gardening,Yes,Male,Desai,Art,No,5
+591,Arjun Patel,No,No,71.37,69.51,65.69,"['Tennis', 'Volleyball']",Cooking,No,Male,"Silva, Singh",Maths,Yes,4.4
+592,Arjun Singh,No,No,71.93,78.83,55.43,['Basketball'],Dancing,No,Male,"Patel, Singh",Art,Yes,4.1
+593,Ananya Silva,No,No,51.63,84.45,55.61,['Rugby'],Photography,No,Male,"Manish, Riya",Science,No,4.1
+594,Rajesh Kapoor,Yes,Yes,61.17,69.34,73.36,"['Rugby', 'Volleyball']",Dancing,No,Male,"Verma, Priya, Neha",Science,Yes,3.9
+595,Rohan Kapoor,No,No,73.27,69,55.96,['Volleyball'],Cooking,Yes,Male,"Gaurav, Singh, Patel",Art,No,3.9
+596,Shreya Rao,Yes,Yes,70.67,84.26,61.34,['Swimming'],Playing guitar,No,Male,"Mehta, Fernando",History,No,3.2
+597,Amara Raj,No,No,69.5,65.14,53.03,"['Tennis', 'Rugby']",Dancing,No,Female,Dasun,Science,No,4.3
+598,Mithun Singh,No,No,69.09,76.44,50.85,"['Football', 'Tennis']",Photography,Yes,Male,"Rao, Amara, Aakash",History,No,4.1
+599,Vinay Verma,No,Yes,72.41,77.61,64.05,['Rugby'],Writing,Yes,Male,"Verma, Mohit, Sharma",English,No,4.6
+600,Naveen Das,Yes,Yes,68.29,71.9,55.05,"['Cricket', 'Tennis']",Music,Yes,Female,"Anil, Mehta",English,Yes,3.7
+601,Neha Mehta,No,Yes,72.66,71.31,57.87,['Tennis'],Dancing,Yes,Female,"Patel, Patel, Kapoor",English,Yes,2.9
+602,Mohit Sharma,No,Yes,57.9,72.14,64.8,['Netball'],Dancing,No,Male,"Perera, Ariyarathna, Raj",Art,Yes,4.4
+603,Amara Sharma,No,No,71.86,82.33,54.69,"['Basketball', 'Rugby']",Cooking,No,Male,"Rahul, Vikram, Sanjana",Maths,Yes,3.8
+604,Mithun Perera,Yes,No,70.2,75.8,52.99,"['Basketball', 'Netball']",Painting,Yes,Female,"Sneha, Kunal",English,No,3.7
+605,Anil Raj,No,Yes,63.06,83.85,55.24,"['Netball', 'Tennis']",Reading,Yes,Female,Raj,Art,No,3.2
+606,Vikas Kaur,No,Yes,63,80.72,63.41,"['Volleyball', 'Swimming']",Photography,No,Female,"Rohan, Kavya",Science,Yes,4.7
+607,Rohit Rana,Yes,Yes,52.98,83.09,50.6,['Cricket'],Music,No,Male,"Mehta, Singh, Perera",English,No,2.6
+608,Sanjana Mehta,Yes,No,68.63,76.7,68.77,"['Netball', 'Swimming']",Cooking,Yes,Male,"Aakash, Kapoor",History,Yes,4.9
+609,Mithun Mehta,No,Yes,50.91,68.75,59.13,['Swimming'],Writing,Yes,Female,"Sharma, Mehta",Science,Yes,4.9
+610,Anushka Patel,Yes,No,55.09,79.7,56.27,"['Tennis', 'Netball']",Photography,No,Female,"Mohit, Kaur, Raj",Maths,Yes,3.4
+611,Kavya Sharma,No,No,74.28,79.21,62.71,"['Volleyball', 'Basketball']",Cooking,Yes,Male,"Sharma, Rahul, Sanjana",History,Yes,3.6
+612,Gaurav Kapoor,No,Yes,57.5,81.61,70.45,['Tennis'],Writing,No,Male,Vikas,Maths,No,3.4
+613,Riya Singh,No,Yes,53.93,67.46,50.85,"['Cricket', 'Basketball']",Cooking,Yes,Male,"Amara, Vikram",Maths,No,3.2
+614,Vinay Nair,No,Yes,54.37,84.1,69.9,"['Volleyball', 'Swimming']",Photography,Yes,Male,"Raj, Arjun, Patel",Art,Yes,4.2
+615,Aakash Raj,Yes,No,59.64,78.01,54.85,['Basketball'],Playing guitar,No,Male,Anjali,History,No,2.5
+616,Nalini Mehta,No,No,58.04,82.31,60.59,['Football'],Playing guitar,Yes,Male,Kunal,Science,No,2.8
+617,Gaurav Mehta,No,Yes,69.21,69.31,53.69,['Cricket'],Gardening,Yes,Male,Singh,English,Yes,4.6
+618,Riya Verma,Yes,No,61.43,73.49,61.35,['Rugby'],Music,No,Female,Verma,English,No,3.7
+619,Karan Sharma,Yes,Yes,53.4,69.29,64.97,['Swimming'],Reading,No,Male,"Singh, Singh",Maths,No,4.9
+620,Shreya Singh,No,Yes,66.26,78.16,61.96,"['Tennis', 'Netball']",Cooking,Yes,Male,"Sanjana, Verma, Desai",Science,No,4.2
+621,Sunil Das,No,No,60.84,66.04,55.58,['Swimming'],Reading,Yes,Female,Kasun,Science,No,4.7
+622,Vikas Das,Yes,No,72.83,80.06,51.14,"['Netball', 'Football']",Writing,No,Male,"Riya, Sejal, Nimesh",History,No,4.7
+623,Kunal Mehta,No,Yes,63.39,82.29,64.9,"['Cricket', 'Basketball']",Painting,Yes,Male,"Aman, Reena",English,No,3.9
+624,Nalini Patel,Yes,No,64.2,83.32,63.6,['Basketball'],Photography,Yes,Male,"Kavita, Patel, Nimesh",Art,No,4
+625,Sanjana Mehta,No,Yes,68.31,74.01,56.01,"['Cricket', 'Swimming']",Music,Yes,Male,Rhea,Art,No,3.2
+626,Reena Mehta,Yes,No,56.94,72.43,61.79,"['Netball', 'Cricket']",Gardening,Yes,Male,"Neha, Sharma, Anushka",Science,Yes,4.5
+627,Vinay Desai,No,No,61.43,77.79,57.07,"['Swimming', 'Netball']",Cooking,Yes,Female,Dasun,History,Yes,3.8
+628,Gaurav Mehta,No,No,52.76,81.92,64.87,"['Rugby', 'Netball']",Gardening,Yes,Male,"Kapoor, Sharma",History,No,3.2
+629,Anil Gamage,Yes,No,73.88,77.48,53.54,['Swimming'],Writing,No,Male,"Rohan, Nimesh",English,Yes,4.3
+630,Manish Singh,No,Yes,58.39,65.81,65.72,"['Netball', 'Volleyball']",Dancing,Yes,Female,"Kavya, Kunal",Maths,Yes,4.2
+631,Vinay Patel,No,Yes,74.47,74.37,60.13,['Rugby'],Music,Yes,Female,"Rohit, Perera, Shruti",Science,No,2.8
+632,Gaurav Fernando,No,Yes,50.74,74.86,66.89,"['Rugby', 'Netball']",Reading,Yes,Female,"Vikram, Amara",Science,Yes,3.3
+633,Sejal Kapoor,No,Yes,71.56,74.5,74.03,['Tennis'],Writing,No,Female,"Desai, Gaurav",History,No,2.5
+634,Vikas Das,Yes,Yes,68.98,79.29,51.31,['Basketball'],Dancing,Yes,Female,"Singh, Singh, Priya",History,No,2.6
+635,Kavita Sharma,Yes,Yes,55.93,70.81,55.48,"['Swimming', 'Cricket']",Playing guitar,No,Male,Vikas,Maths,Yes,4.2
+636,Neha Mehta,No,No,57.53,70.84,56.88,"['Tennis', 'Cricket']",Photography,Yes,Female,"Ariyarathna, Vikram, Kapoor",Science,No,4.1
+637,Sanjana Rao,No,Yes,67.4,79.26,58.53,['Tennis'],Music,No,Male,"Kularatne, Patel, Shruti",History,No,3.7
+638,Aakash Kularatne,No,No,52.77,84.95,50.2,"['Swimming', 'Basketball']",Writing,Yes,Female,"Rana, Rahul",Science,Yes,4.2
+639,Amara Ariyarathna,Yes,No,67.79,73.73,67.51,"['Basketball', 'Netball']",Painting,Yes,Female,"Rohan, Raj",History,Yes,3.6
+640,Anil Mehta,No,No,67.33,69.2,73.17,['Rugby'],Painting,Yes,Male,"Gaurav, Dasun, Priyanka",Maths,No,4.3
+641,Vinay Kapoor,Yes,Yes,67.32,80.28,74.87,['Football'],Gardening,Yes,Female,"Mehta, Mehta, Kapoor",Art,Yes,3.2
+642,Neha Sharma,Yes,No,56.39,79.73,72.31,"['Football', 'Volleyball']",Painting,Yes,Male,"Mehta, Raj",Maths,No,2.6
+643,Mithun Silva,Yes,Yes,56.09,65.23,55.65,['Swimming'],Playing guitar,Yes,Male,Patel,English,Yes,2.8
+644,Dev Raj,No,Yes,71.54,82.47,66.1,['Cricket'],Playing guitar,No,Female,"Aman, Priyanka, Rana",Art,No,4.4
+645,Naveen Desai,Yes,Yes,57.81,72.43,53.57,['Swimming'],Gardening,No,Male,"Shruti, Arjun, Das",English,Yes,5
+646,Ananya Patel,Yes,Yes,57.08,77.97,60.07,"['Rugby', 'Netball']",Cooking,Yes,Male,"Rahul, Raj, Sharma",Science,Yes,2.8
+647,Anushka Gamage,Yes,No,52.61,78.6,64.21,"['Rugby', 'Tennis']",Gardening,Yes,Male,"Mehta, Anushka",Maths,No,4.5
+648,Priyanka Mehta,No,Yes,65.01,80.79,60.84,"['Netball', 'Swimming']",Painting,No,Male,"Sejal, Anushka, Rajesh",Science,Yes,4
+649,Rajesh Patel,No,No,65.78,68.2,73.32,"['Cricket', 'Football']",Gardening,No,Male,Patel,Science,No,3.7
+650,Rhea Kaur,Yes,Yes,60.31,82.94,72.25,"['Swimming', 'Basketball']",Photography,No,Male,"Dev, Verma, Anjali",Art,No,5
+651,Nimesh Singh,Yes,No,55.07,82.32,54.79,"['Rugby', 'Basketball']",Gardening,Yes,Female,Kasun,History,No,3
+652,Mithun Desai,Yes,Yes,68.66,67.86,50.01,"['Cricket', 'Volleyball']",Music,No,Male,Patel,English,Yes,4.7
+653,Kavita Desai,No,Yes,61.3,76.93,56.39,['Volleyball'],Painting,Yes,Female,"Mehta, Aditya",English,No,3
+654,Mohit Raj,No,Yes,63.81,77.48,59.33,"['Football', 'Netball']",Playing guitar,No,Male,Rohan,Maths,Yes,3.8
+655,Sanjana Ariyarathna,Yes,Yes,60.67,66.99,58.88,['Rugby'],Playing guitar,Yes,Male,Mehta,History,No,3.5
+656,Manish Ariyarathna,No,Yes,74.72,65.39,58.9,['Netball'],Cooking,Yes,Female,"Dev, Verma, Arjun",Science,Yes,4.9
+657,Aditya Raj,No,Yes,64.14,71.81,61.47,"['Rugby', 'Football']",Cooking,No,Male,"Rana, Rahul, Raj",Maths,No,4
+658,Anil Patel,Yes,Yes,61.47,77.22,60.53,"['Basketball', 'Tennis']",Gardening,No,Male,Kapoor,Maths,No,3.2
+659,Reena Fernando,Yes,Yes,50.57,75.91,60.91,"['Swimming', 'Tennis']",Music,No,Female,Singh,History,No,2.5
+660,Aman Rao,Yes,No,65.98,80.7,73.07,['Rugby'],Painting,Yes,Female,"Das, Karan, Raj",Science,Yes,4.7
+661,Mithun Patel,Yes,Yes,64.78,69.16,65.41,['Swimming'],Gardening,Yes,Female,"Verma, Priyanka",Art,Yes,2.9
+662,Mithun Das,Yes,Yes,66.12,65.36,72.4,['Football'],Photography,Yes,Male,"Rohit, Desai",History,Yes,4.6
+663,Simran Kapoor,Yes,No,55.95,78.47,52.01,['Rugby'],Playing guitar,Yes,Female,"Fernando, Naveen",Science,No,4.1
+664,Rahul Nair,Yes,No,61.8,78.13,72.19,['Cricket'],Music,No,Female,"Sharma, Mehta",History,No,4.9
+665,Ananya Rana,No,Yes,71.75,66.37,53.07,"['Volleyball', 'Rugby']",Music,No,Male,Aditya,English,Yes,2.9
+666,Priyanka Desai,Yes,Yes,71.79,84.24,57.08,['Rugby'],Gardening,Yes,Male,Shruti,History,Yes,2.8
+667,Reena Fernando,Yes,Yes,65.48,76.69,51.03,['Netball'],Writing,Yes,Female,Kavita,English,Yes,2.7
+668,Arun Verma,Yes,Yes,61.77,79.15,57.07,['Rugby'],Gardening,No,Male,Rana,Art,No,3.3
+669,Kavya Mehta,No,No,60,73.46,53.13,['Tennis'],Cooking,Yes,Female,Sharma,Maths,Yes,2.7
+670,Rhea Kapoor,No,Yes,67.38,65.07,50.71,['Rugby'],Cooking,No,Male,"Singh, Reena, Vikas",Maths,Yes,2.7
+671,Vikram Silva,Yes,Yes,74.49,80.03,70.99,['Netball'],Dancing,Yes,Male,Gamage,History,Yes,3.5
+672,Riya Mehta,Yes,No,71.19,69.47,62.92,['Tennis'],Photography,Yes,Female,"Dev, Gamage, Sharma",Art,No,4.2
+673,Rhea Mehta,Yes,No,63.8,78.75,71.6,"['Rugby', 'Swimming']",Writing,No,Male,"Raj, Kasun",Maths,Yes,3.6
+674,Rohan Desai,No,Yes,55.21,74.89,52.8,['Volleyball'],Painting,No,Female,Desai,Art,Yes,3.7
+675,Priyanka Nair,No,Yes,50.49,78.11,72.41,['Swimming'],Gardening,Yes,Male,"Das, Singh",English,Yes,3.9
+676,Vinay Mehta,No,Yes,57.99,72.36,69.9,"['Basketball', 'Swimming']",Gardening,Yes,Male,"Desai, Verma, Mehta",History,Yes,4.5
+677,Amara Singh,No,No,71.04,67.01,50.43,['Swimming'],Gardening,Yes,Female,"Rhea, Gaurav, Riya",Art,Yes,2.9
+678,Dev Patel,Yes,No,72.08,68.12,74.6,['Basketball'],Gardening,Yes,Male,"Aakash, Das",Art,No,3.1
+679,Sejal Kapoor,No,No,71.33,71.83,53.43,"['Football', 'Basketball']",Photography,Yes,Male,"Kapoor, Sanjana",Art,Yes,4.1
+680,Pooja Raj,Yes,Yes,62.17,68.77,52.41,"['Volleyball', 'Football']",Writing,No,Female,"Patel, Vikram",History,No,4.9
+681,Priyanka Verma,No,Yes,58.2,65.59,60.55,"['Tennis', 'Football']",Dancing,No,Female,Kavita,Maths,Yes,4.2
+682,Amara Ariyarathna,Yes,Yes,72.43,74.57,68.74,['Volleyball'],Cooking,Yes,Male,"Singh, Perera",Maths,No,3.8
+683,Neha Desai,No,No,63.5,70.6,63.98,['Volleyball'],Reading,No,Male,"Rao, Aakash, Nair",Maths,Yes,4.8
+684,Vikas Nair,Yes,No,51.77,71.65,71.1,"['Basketball', 'Volleyball']",Playing guitar,Yes,Male,"Sunil, Silva, Mehta",Maths,Yes,3.6
+685,Priyanka Desai,No,No,52.46,69.63,59.51,"['Tennis', 'Rugby']",Painting,No,Male,"Rhea, Dasun",English,No,3
+686,Rhea Das,Yes,Yes,71.92,65.78,65.53,"['Basketball', 'Volleyball']",Playing guitar,Yes,Male,Sharma,History,Yes,3.7
+687,Neha Mehta,Yes,Yes,58.88,70.69,71.04,['Volleyball'],Painting,Yes,Female,"Vinay, Raj",Maths,Yes,3.2
+688,Sanjana Singh,No,No,67.01,81.23,72.27,"['Rugby', 'Volleyball']",Gardening,No,Female,"Kularatne, Anjali, Verma",Maths,No,3.3
+689,Reena Raj,Yes,Yes,57.72,77.02,55.64,['Basketball'],Cooking,No,Female,Kapoor,Science,Yes,2.8
+690,Kavita Verma,No,No,63.48,74.03,60.71,"['Swimming', 'Volleyball']",Playing guitar,Yes,Female,"Anushka, Raj",Art,No,4.9
+691,Shruti Rao,No,No,68.27,77.41,52.13,"['Cricket', 'Football']",Reading,No,Male,"Rohan, Ariyarathna",Art,No,4.9
+692,Vikas Kapoor,Yes,Yes,72.09,70.91,74.7,['Basketball'],Playing guitar,Yes,Female,"Aditya, Raj",History,Yes,3.1
+693,Simran Sharma,No,No,53.01,83.43,61.4,['Cricket'],Painting,No,Female,Rao,English,No,3.1
+694,Aakash Fernando,No,Yes,74.34,79.4,63.91,['Football'],Photography,Yes,Female,"Sharma, Nimesh, Vikram",History,No,2.6
+695,Priyanka Das,No,Yes,52.95,84.26,65.23,['Tennis'],Reading,No,Male,Kunal,Science,Yes,3.2
+696,Priyanka Rana,No,Yes,64.4,72.95,68.9,['Volleyball'],Music,Yes,Male,Singh,English,No,3.1
+697,Sanjana Patel,No,Yes,68.32,71.47,53.4,['Swimming'],Painting,Yes,Male,Neha,Maths,No,4.8
+698,Kavya Verma,No,Yes,67.25,73.47,74.25,['Swimming'],Dancing,No,Female,"Rohan, Vikas",English,No,2.8
+699,Sunil Rana,Yes,Yes,67.92,71.15,65.82,['Swimming'],Gardening,Yes,Female,Pooja,Science,No,2.8
+700,Rohit Singh,No,Yes,74.01,67.32,56.41,"['Rugby', 'Volleyball']",Music,Yes,Female,"Kavita, Pooja, Mehta",Maths,Yes,4.3
+701,Neha Patel,Yes,Yes,59.98,70.15,65.27,"['Basketball', 'Tennis']",Music,Yes,Male,"Patel, Neha, Sharma",English,No,3.6
+702,Reena Mehta,Yes,Yes,64.82,79.77,63.92,['Football'],Reading,No,Female,"Verma, Priya",English,Yes,3.9
+703,Simran Desai,Yes,No,61.76,78.31,71.52,['Basketball'],Reading,No,Male,"Raj, Raj, Patel",Art,Yes,4.7
+704,Pooja Singh,No,No,64.43,82.98,73.23,['Volleyball'],Painting,Yes,Male,"Arjun, Mehta, Rhea",Science,No,4.4
+705,Nimesh Fernando,No,Yes,61.81,66.11,59.91,"['Basketball', 'Rugby']",Dancing,Yes,Female,"Desai, Vikas",History,Yes,3.4
+706,Rajesh Raj,No,No,52.85,75.23,64.84,"['Netball', 'Basketball']",Music,No,Male,Sneha,English,Yes,3.7
+707,Kavita Perera,Yes,Yes,67.1,66.85,58.87,"['Cricket', 'Swimming']",Cooking,No,Male,Nair,Art,Yes,3.1
+708,Kavita Desai,No,No,59.76,78.29,72.87,['Cricket'],Writing,Yes,Male,"Sanjana, Kasun, Ariyarathna",Maths,Yes,3.8
+709,Mithun Sharma,Yes,Yes,66.34,84.56,59.43,"['Rugby', 'Tennis']",Music,No,Female,"Simran, Patel",Science,Yes,4.3
+710,Priyanka Mehta,No,Yes,63.63,82.1,68.7,"['Swimming', 'Basketball']",Playing guitar,Yes,Female,"Verma, Amara, Rao",English,Yes,4.8
+711,Reena Patel,No,Yes,52.07,80.65,67.99,"['Tennis', 'Cricket']",Gardening,Yes,Male,Sejal,History,Yes,3.7
+712,Riya Desai,Yes,Yes,69.87,78.94,64.32,['Football'],Reading,No,Male,"Rohan, Rana, Ariyarathna",English,No,4.8
+713,Rahul Patel,Yes,No,74.25,69.59,54.32,"['Cricket', 'Swimming']",Reading,No,Female,Singh,History,No,4.1
+714,Dasun Singh,No,No,59.1,74.09,62.03,['Tennis'],Playing guitar,No,Male,Gamage,Science,Yes,2.8
+715,Rohan Perera,No,Yes,73.07,73.94,60.65,"['Swimming', 'Cricket']",Playing guitar,No,Male,"Riya, Naveen, Kasun",Maths,No,4.9
+716,Mithun Mehta,No,No,55.48,80.24,50.64,"['Swimming', 'Netball']",Music,No,Female,Raj,Science,No,3.7
+717,Shruti Raj,No,No,71.29,75.3,74.67,"['Netball', 'Cricket']",Playing guitar,No,Female,"Mehta, Vinay, Raj",Art,Yes,4.9
+718,Ananya Kapoor,No,Yes,53.46,80.99,63.74,['Rugby'],Music,No,Female,"Rajesh, Sharma",History,No,4.2
+719,Rhea Patel,No,Yes,73.74,70.05,71.67,"['Volleyball', 'Cricket']",Photography,No,Male,Mehta,Science,Yes,4.4
+720,Nimesh Mehta,No,No,67.95,81.68,66.83,"['Volleyball', 'Rugby']",Cooking,Yes,Male,"Rohit, Patel, Fernando",Science,No,4.7
+721,Rohit Rao,No,Yes,51.97,74.89,65.74,"['Basketball', 'Volleyball']",Cooking,Yes,Female,"Kapoor, Perera",Maths,No,3.4
+722,Nalini Kapoor,Yes,No,66.45,78.69,65.86,['Cricket'],Dancing,Yes,Female,"Singh, Simran, Naveen",History,Yes,4.9
+723,Aakash Verma,Yes,Yes,57.84,68.97,61.45,['Cricket'],Reading,No,Female,"Sanjana, Gamage, Desai",Science,Yes,3.6
+724,Naveen Perera,No,No,50.56,67.41,61.28,['Netball'],Cooking,No,Male,"Patel, Simran, Sharma",Art,No,2.6
+725,Sunil Perera,Yes,No,53.81,72.93,55.25,['Football'],Painting,No,Female,Raj,Maths,No,2.9
+726,Gaurav Verma,Yes,Yes,61.63,78.41,58.93,"['Tennis', 'Cricket']",Reading,No,Female,"Ananya, Priyanka, Das",Maths,No,4.3
+727,Simran Sharma,Yes,Yes,68.81,72.41,50.04,"['Tennis', 'Swimming']",Cooking,No,Male,"Mehta, Mehta, Raj",Maths,Yes,4.1
+728,Sejal Singh,Yes,No,61.99,68.04,74.38,"['Rugby', 'Volleyball']",Photography,No,Male,Rohit,Science,No,3.3
+729,Priyanka Singh,Yes,Yes,74.08,68.75,60.13,['Basketball'],Writing,No,Male,"Singh, Mohit",Maths,Yes,4
+730,Mithun Sharma,No,No,59.98,77.83,66.64,['Swimming'],Music,No,Female,"Nair, Patel, Simran",History,Yes,4.4
+731,Arun Desai,Yes,No,62.93,77.22,71.42,"['Netball', 'Football']",Writing,No,Female,"Verma, Patel, Karan",Maths,No,2.5
+732,Riya Kaur,Yes,No,62.48,65.02,52.09,['Swimming'],Dancing,Yes,Female,"Vikas, Dev, Nalini",History,No,2.7
+733,Rajesh Patel,No,No,56.67,78.2,65.59,['Rugby'],Reading,Yes,Male,"Nair, Aditya",Science,No,2.9
+734,Priyanka Verma,No,No,58.46,74.85,72.06,['Netball'],Photography,No,Female,"Perera, Sanjana, Vikas",History,No,2.9
+735,Rohan Sharma,Yes,No,54.75,76.57,55.07,"['Rugby', 'Swimming']",Playing guitar,Yes,Male,"Patel, Riya, Shreya",History,Yes,2.7
+736,Anjali Kularatne,Yes,No,55.62,76.53,67.47,"['Cricket', 'Tennis']",Gardening,No,Male,Verma,History,No,3.9
+737,Anushka Kapoor,No,Yes,55.99,83.48,52.06,"['Rugby', 'Swimming']",Music,No,Male,"Karan, Rohan, Priyanka",Science,Yes,2.7
+738,Shreya Patel,Yes,No,62.53,68.91,74.64,['Swimming'],Playing guitar,Yes,Female,Nalini,English,Yes,3.6
+739,Kavya Desai,Yes,Yes,57.7,70.03,53.37,['Tennis'],Painting,No,Male,"Rao, Shreya",Maths,Yes,3.2
+740,Anushka Mehta,Yes,No,64.36,67.85,72.97,['Swimming'],Gardening,No,Female,"Fernando, Priyanka, Kapoor",Science,No,4
+741,Aditya Sharma,No,Yes,62.72,73.63,59.53,['Netball'],Dancing,No,Male,"Raj, Raj, Karan",Art,Yes,4.4
+742,Nalini Desai,No,Yes,73.95,84.82,52.88,['Football'],Music,Yes,Male,"Patel, Mehta",Art,No,3
+743,Sanjana Mehta,Yes,No,58.19,75.25,53.44,['Tennis'],Dancing,Yes,Female,Patel,Art,No,4.3
+744,Rohan Sharma,Yes,Yes,72.52,72.59,63.42,"['Rugby', 'Football']",Gardening,Yes,Male,"Patel, Sanjana",Science,No,3.9
+745,Vikram Singh,Yes,No,59.88,73.33,53.89,"['Football', 'Netball']",Playing guitar,No,Male,"Rohan, Priyanka",Science,Yes,3
+746,Vinay Mehta,Yes,No,73.71,81.81,71.55,"['Tennis', 'Basketball']",Photography,No,Male,"Silva, Kunal",Maths,No,3.5
+747,Rohit Mehta,Yes,Yes,55.93,83.35,67.36,"['Netball', 'Cricket']",Music,No,Female,"Priyanka, Patel",English,No,4.2
+748,Anil Patel,Yes,Yes,63.61,78.94,58.52,"['Basketball', 'Football']",Cooking,Yes,Male,Kularatne,Maths,Yes,3.5
+749,Dev Sharma,Yes,No,59.47,67.08,73.54,"['Volleyball', 'Netball']",Photography,Yes,Male,"Nalini, Anushka",History,Yes,4.6
+750,Priyanka Sharma,No,Yes,54.33,68.54,72.04,['Swimming'],Playing guitar,Yes,Female,"Mehta, Perera",Art,Yes,3.9
+751,Vinay Desai,No,Yes,67.12,72.48,52.29,['Swimming'],Music,No,Female,"Pooja, Kaur",English,No,4.9
+752,Rhea Patel,No,Yes,67.6,71.22,69.37,"['Tennis', 'Volleyball']",Playing guitar,No,Male,Ariyarathna,Art,No,2.8
+753,Reena Mehta,Yes,Yes,73.76,83.75,59.14,"['Tennis', 'Swimming']",Reading,Yes,Male,"Kavita, Rana, Mehta",English,No,3.9
+754,Anjali Rana,No,Yes,73.48,78.35,69.75,"['Cricket', 'Rugby']",Writing,Yes,Female,"Mohit, Rajesh, Sharma",Maths,Yes,3.7
+755,Karan Das,No,Yes,58.26,71.09,70.96,['Netball'],Photography,No,Female,Singh,History,Yes,2.6
+756,Arun Singh,No,No,58.27,84.74,73.34,['Netball'],Dancing,No,Male,Kunal,Maths,Yes,3.1
+757,Ananya Rana,Yes,Yes,62.02,76.71,60.03,['Basketball'],Cooking,No,Male,"Singh, Kunal, Raj",Maths,No,4.1
+758,Rajesh Singh,No,Yes,51.92,71.42,71.79,"['Rugby', 'Netball']",Gardening,No,Female,Mehta,English,No,3.2
+759,Priyanka Kapoor,Yes,Yes,62.08,76.86,50.43,"['Cricket', 'Tennis']",Painting,No,Male,Priya,History,No,4.7
+760,Ananya Verma,Yes,Yes,66.57,72.33,57.05,"['Basketball', 'Football']",Music,Yes,Male,Kasun,Science,No,4.4
+761,Anushka Sharma,No,Yes,70.76,79.18,74.35,"['Cricket', 'Swimming']",Dancing,No,Male,"Pooja, Gaurav, Patel",English,Yes,4.2
+762,Shruti Sharma,No,No,64.02,80.79,74,"['Football', 'Netball']",Music,Yes,Male,Verma,Art,Yes,3.1
+763,Anil Desai,Yes,Yes,66.59,78.77,66.23,['Netball'],Cooking,Yes,Female,"Perera, Anil, Kasun",Art,Yes,2.7
+764,Anjali Desai,No,Yes,62.93,73.61,61.73,"['Basketball', 'Swimming']",Photography,Yes,Female,Aakash,Science,Yes,4.9
+765,Aman Patel,Yes,No,51.34,80.46,68.1,"['Swimming', 'Basketball']",Painting,Yes,Male,"Gaurav, Patel, Rohan",Science,No,3.1
+766,Rahul Kapoor,Yes,Yes,55.83,77.99,62.37,"['Tennis', 'Swimming']",Reading,Yes,Male,Sharma,Science,No,4.6
+767,Sanjana Ariyarathna,No,Yes,68.3,83.55,73.51,"['Cricket', 'Swimming']",Playing guitar,Yes,Female,"Kularatne, Aman",Maths,Yes,4.6
+768,Rajesh Sharma,Yes,Yes,60.01,84.31,53.82,"['Basketball', 'Volleyball']",Gardening,Yes,Male,"Mehta, Nimesh, Raj",Science,No,4.3
+769,Vinay Verma,Yes,No,63.48,71.27,62.76,"['Volleyball', 'Basketball']",Cooking,No,Female,Singh,Art,No,4.7
+770,Kavita Patel,No,Yes,59.53,81.33,51.26,['Football'],Painting,No,Male,"Patel, Nalini",History,No,3.9
+771,Gaurav Kapoor,No,No,59.68,80.2,55.9,"['Basketball', 'Volleyball']",Playing guitar,No,Female,"Rajesh, Shreya, Perera",English,Yes,4
+772,Simran Desai,No,Yes,70.17,80.32,58.32,['Volleyball'],Cooking,Yes,Male,"Singh, Rohit, Kapoor",English,Yes,3.3
+773,Mithun Desai,No,No,55.69,80.74,65.96,"['Rugby', 'Football']",Playing guitar,Yes,Female,"Kapoor, Sejal, Aditya",Maths,No,4.8
+774,Vikas Rana,Yes,No,67.38,68.5,60.68,"['Swimming', 'Netball']",Writing,Yes,Male,"Desai, Mohit, Reena",Science,No,4.6
+775,Gaurav Ariyarathna,Yes,No,62.67,73.73,55.54,['Football'],Reading,No,Male,"Rohan, Sanjana",Science,Yes,3.9
+776,Aditya Nair,Yes,Yes,66.72,72.66,60.32,['Netball'],Playing guitar,Yes,Male,"Verma, Sunil, Singh",Maths,No,3.4
+777,Vikas Mehta,No,No,71.08,66.71,52.72,"['Swimming', 'Rugby']",Music,No,Female,"Sneha, Raj",Maths,Yes,3.6
+778,Priyanka Mehta,No,No,68.97,69.46,67.33,['Volleyball'],Reading,No,Female,Kaur,Science,No,3.6
+779,Mithun Desai,No,Yes,71.93,74.34,62.48,['Football'],Writing,Yes,Male,Singh,History,Yes,5
+780,Amara Patel,Yes,Yes,56.02,84.96,67.37,['Rugby'],Reading,Yes,Male,Singh,Science,No,4.3
+781,Anjali Sharma,No,No,51.87,68.99,61.84,['Rugby'],Playing guitar,Yes,Male,"Rohan, Singh, Gaurav",Science,Yes,4.4
+782,Sanjana Raj,Yes,Yes,51.78,77.1,74.9,"['Cricket', 'Basketball']",Music,Yes,Male,"Silva, Desai",Art,No,3.7
+783,Kunal Desai,Yes,Yes,74.14,75.88,68.05,['Football'],Music,No,Male,"Aakash, Nimesh, Kapoor",Art,No,4.7
+784,Priyanka Verma,No,Yes,67.48,73.93,61.93,"['Swimming', 'Tennis']",Photography,No,Male,Aditya,History,No,4.7
+785,Sejal Patel,Yes,No,71.09,67.32,60.54,['Swimming'],Cooking,No,Female,"Sanjana, Kapoor, Patel",Science,No,4.9
+786,Sneha Mehta,Yes,Yes,74.29,77.37,57.33,"['Basketball', 'Football']",Photography,No,Female,"Raj, Rhea, Vikas",History,No,4.6
+787,Rohit Singh,No,Yes,61.53,79.24,53.16,"['Tennis', 'Volleyball']",Gardening,No,Male,"Arun, Karan, Mohit",Maths,Yes,4.8
+788,Arjun Nair,Yes,No,50.62,75.2,62.85,"['Swimming', 'Volleyball']",Playing guitar,No,Male,"Mithun, Kapoor",Science,Yes,3.6
+789,Sejal Kularatne,No,No,74.47,69.51,60.75,"['Cricket', 'Rugby']",Music,No,Male,Sharma,Science,No,4.9
+790,Gaurav Kapoor,No,Yes,66.18,76.54,59.09,"['Tennis', 'Volleyball']",Writing,No,Male,"Sunil, Kapoor, Rao",English,Yes,2.7
+791,Sunil Kapoor,No,No,51.99,65.82,52.78,"['Rugby', 'Volleyball']",Writing,Yes,Female,Singh,English,Yes,5
+792,Aditya Mehta,No,Yes,68.06,82.54,59.37,"['Swimming', 'Football']",Playing guitar,No,Female,Manish,Art,Yes,4.5
+793,Arun Verma,No,Yes,70.06,75.03,57.83,['Basketball'],Dancing,No,Female,"Mehta, Desai",Science,No,2.7
+794,Naveen Kapoor,Yes,No,71.71,78.55,70.82,"['Rugby', 'Volleyball']",Playing guitar,No,Female,"Sharma, Raj",Science,No,3.4
+795,Arjun Patel,Yes,Yes,69.77,82.96,68.14,"['Cricket', 'Tennis']",Cooking,No,Male,Rahul,Science,Yes,3.6
+796,Vikram Singh,No,Yes,74.44,75.89,68.36,"['Cricket', 'Football']",Gardening,No,Male,"Mehta, Verma, Desai",English,Yes,4.1
+797,Arjun Raj,Yes,No,59.13,75.43,65.56,['Rugby'],Cooking,No,Male,"Verma, Mehta, Reena",English,Yes,2.7
+798,Rohan Desai,Yes,No,74.05,72.39,50.95,"['Netball', 'Cricket']",Cooking,No,Female,"Kapoor, Neha",Science,Yes,3.2
+799,Anil Sharma,No,No,55.88,83.42,67.38,['Basketball'],Gardening,No,Female,"Mehta, Anjali, Rana",English,Yes,4.4
+800,Aman Mehta,Yes,Yes,68.51,68.67,64.87,['Netball'],Photography,No,Female,"Rohan, Anil",English,Yes,4.4
+801,Rahul Gamage,No,Yes,64.14,78.32,63.47,['Football'],Playing guitar,Yes,Female,Raj,Maths,No,4.7
+802,Arun Mehta,No,No,56.17,79.31,60.81,"['Rugby', 'Basketball']",Reading,No,Male,"Aakash, Desai, Neha",Science,Yes,3.6
+803,Priyanka Das,No,Yes,50.02,71.68,63.27,['Tennis'],Writing,No,Male,"Singh, Manish",Art,No,5
+804,Rhea Sharma,No,No,74.8,67.35,51.42,['Football'],Writing,Yes,Male,"Silva, Perera",Maths,Yes,4.2
+805,Nimesh Sharma,Yes,Yes,57.26,71.68,68.75,['Swimming'],Photography,No,Female,Anjali,Art,No,4.7
+806,Aman Raj,Yes,No,71.7,73.53,58.55,['Tennis'],Gardening,Yes,Male,Priya,Maths,No,4.8
+807,Neha Sharma,No,No,71.77,83.83,55.21,"['Football', 'Tennis']",Reading,Yes,Male,Mehta,Maths,No,4.3
+808,Amara Singh,No,No,60.92,77.12,73.82,"['Rugby', 'Volleyball']",Music,Yes,Female,"Raj, Singh",Maths,Yes,4.5
+809,Kunal Kularatne,Yes,Yes,69.39,66.29,61.23,['Tennis'],Photography,No,Male,"Naveen, Kunal",Maths,No,3.6
+810,Anjali Kapoor,No,Yes,57.25,80.84,60.89,['Cricket'],Reading,Yes,Male,"Singh, Patel",Maths,No,4.9
+811,Kavya Silva,Yes,Yes,67.31,80.71,58.17,"['Basketball', 'Netball']",Writing,No,Female,"Kasun, Nimesh, Reena",Art,No,3
+812,Naveen Kapoor,No,Yes,62.88,76.94,50.59,['Volleyball'],Gardening,Yes,Female,"Kasun, Verma, Rohan",History,Yes,4.5
+813,Pooja Mehta,No,Yes,54.91,69.91,68.79,['Swimming'],Writing,No,Male,"Rajesh, Sharma, Desai",Science,No,5
+814,Priyanka Kapoor,Yes,Yes,60.5,69.6,71.76,['Volleyball'],Music,No,Female,"Anushka, Kunal",History,No,4.7
+815,Aditya Singh,Yes,No,57.84,75.36,60.68,"['Netball', 'Rugby']",Music,Yes,Female,"Vikram, Aman",Art,Yes,2.7
+816,Manish Raj,No,No,56.16,75.95,68.1,"['Cricket', 'Basketball']",Writing,Yes,Female,Anushka,Maths,Yes,2.9
+817,Shruti Perera,Yes,Yes,54.84,67.79,73.19,['Football'],Dancing,Yes,Male,"Singh, Singh, Dasun",English,No,4.4
+818,Reena Mehta,No,Yes,56.4,84.46,57.66,"['Cricket', 'Football']",Music,Yes,Female,"Verma, Naveen, Silva",English,Yes,4.3
+819,Sanjana Perera,No,No,67.11,66.13,52.64,['Cricket'],Photography,No,Male,Priyanka,Maths,No,3.2
+820,Amara Patel,No,No,61.24,74.81,70.3,"['Rugby', 'Volleyball']",Reading,Yes,Female,Rahul,English,Yes,2.7
+821,Priyanka Silva,No,No,67.32,73.99,74.98,['Basketball'],Dancing,Yes,Female,"Sharma, Amara, Kapoor",Art,No,2.6
+822,Arun Sharma,Yes,Yes,74.96,77.65,54.93,"['Rugby', 'Netball']",Painting,Yes,Male,"Verma, Rajesh, Singh",History,Yes,5
+823,Sejal Kaur,Yes,Yes,68.45,72.16,61.08,['Netball'],Photography,No,Male,"Rohan, Kapoor, Priyanka",Maths,No,4.6
+824,Vikram Rana,No,No,68.13,76.12,73.36,['Cricket'],Gardening,No,Female,Sharma,Maths,No,2.8
+825,Priya Singh,Yes,No,53.09,68.08,63.57,"['Cricket', 'Rugby']",Playing guitar,Yes,Male,"Singh, Sneha",Art,No,4.9
+826,Rohit Sharma,No,No,73.23,67.26,68.98,['Tennis'],Playing guitar,Yes,Male,"Perera, Kasun, Patel",Art,Yes,4.2
+827,Aman Kularatne,Yes,No,72.53,79.01,73.37,['Volleyball'],Photography,No,Female,"Raj, Vikas",History,No,3.5
+828,Shreya Sharma,No,No,61.09,66.67,72.66,['Football'],Gardening,No,Male,"Singh, Nalini",Maths,Yes,4.2
+829,Priyanka Singh,No,Yes,73.59,84.81,50.21,['Rugby'],Reading,No,Female,"Priya, Desai, Mehta",Maths,No,4.2
+830,Sanjana Verma,No,No,63.96,65.37,63.97,['Rugby'],Reading,Yes,Male,Kapoor,Art,Yes,3.7
+831,Naveen Rana,No,No,51.7,72.27,57.71,['Netball'],Photography,No,Female,Karan,English,Yes,4
+832,Anil Das,Yes,Yes,58.51,73.17,52.86,['Swimming'],Writing,Yes,Female,"Anjali, Mehta, Shruti",Maths,Yes,3
+833,Anil Mehta,Yes,Yes,63.1,76.28,64.87,['Netball'],Photography,Yes,Female,"Pooja, Raj, Anushka",Maths,Yes,3.6
+834,Nalini Sharma,Yes,Yes,55.35,68.94,74.39,"['Volleyball', 'Rugby']",Photography,Yes,Female,"Patel, Dev",Maths,No,2.7
+835,Anushka Kapoor,No,Yes,62.41,65.5,57.55,"['Rugby', 'Volleyball']",Reading,Yes,Male,"Silva, Anjali, Priyanka",Art,No,3.1
+836,Ananya Raj,Yes,No,63.62,66.2,72.09,['Football'],Writing,No,Female,Sanjana,English,No,3.4
+837,Nimesh Rao,No,Yes,67.17,71,62.08,['Swimming'],Photography,No,Male,Mehta,History,Yes,4.7
+838,Priya Das,Yes,No,59,83.55,63.63,['Tennis'],Photography,Yes,Female,Raj,Maths,No,3
+839,Nimesh Nair,No,No,73.95,83.67,70.24,['Rugby'],Writing,Yes,Male,Nimesh,Science,No,4.3
+840,Shruti Kaur,No,Yes,66.35,71.14,74.58,['Swimming'],Music,No,Male,"Nair, Shruti",Art,No,2.6
+841,Nimesh Gamage,No,No,52.64,83.18,52.18,"['Netball', 'Cricket']",Playing guitar,Yes,Male,"Patel, Anushka, Priya",Art,No,2.9
+842,Dasun Mehta,No,Yes,72.39,71.43,67.4,['Football'],Gardening,Yes,Male,"Sanjana, Anil",Maths,Yes,4.9
+843,Rohan Kapoor,Yes,No,74.63,70.02,69.61,"['Swimming', 'Football']",Dancing,No,Male,"Mehta, Kapoor",History,No,4.6
+844,Rohit Raj,Yes,Yes,60.98,77.96,71.22,"['Rugby', 'Basketball']",Photography,No,Female,Das,Science,No,4.8
+845,Rohit Kaur,No,No,65.61,81.18,54.38,"['Cricket', 'Basketball']",Photography,Yes,Male,"Arun, Sanjana, Desai",History,No,2.8
+846,Rhea Sharma,No,Yes,73.84,75.6,73.17,"['Volleyball', 'Tennis']",Writing,No,Male,"Manish, Kaur, Sneha",Science,No,2.9
+847,Riya Verma,No,Yes,71.87,84.67,57.59,['Volleyball'],Writing,Yes,Female,Raj,Maths,Yes,3.4
+848,Rhea Kapoor,No,Yes,58.08,75.46,62.71,"['Netball', 'Cricket']",Gardening,Yes,Female,Patel,Maths,No,2.6
+849,Aakash Sharma,Yes,Yes,66.63,73.15,53.6,['Swimming'],Cooking,No,Female,Verma,History,No,4
+850,Aman Raj,Yes,No,65.69,74.94,55.08,['Tennis'],Painting,Yes,Female,"Mehta, Patel",English,No,3.2
+851,Anjali Verma,Yes,Yes,64.89,83.59,60.93,['Netball'],Cooking,No,Male,"Gaurav, Nimesh, Raj",Maths,No,3.7
+852,Simran Patel,No,No,72.81,83.77,72.2,['Rugby'],Playing guitar,No,Female,"Kunal, Anjali, Aditya",Maths,No,3.7
+853,Manish Kapoor,Yes,Yes,66.77,75.56,61.45,['Basketball'],Dancing,No,Male,"Fernando, Patel, Singh",English,Yes,4
+854,Mohit Rana,No,Yes,62.71,77.99,54.31,"['Cricket', 'Rugby']",Music,Yes,Male,Rohan,English,Yes,3.6
+855,Mithun Nair,Yes,Yes,70.67,72.55,50.95,"['Rugby', 'Tennis']",Cooking,Yes,Female,"Mehta, Patel",Maths,No,4.9
+856,Vikram Sharma,No,Yes,66.85,77.59,72.6,['Volleyball'],Playing guitar,No,Male,"Patel, Patel, Singh",English,Yes,2.7
+857,Arun Mehta,Yes,No,52.46,78.57,63.86,"['Tennis', 'Netball']",Writing,Yes,Female,"Nalini, Rao, Priyanka",Science,No,3.2
+858,Simran Sharma,Yes,Yes,70.79,84.48,62.15,['Tennis'],Music,No,Male,"Sharma, Aakash",Science,Yes,4.5
+859,Priya Sharma,Yes,Yes,74.67,71.9,64.62,"['Tennis', 'Cricket']",Reading,No,Male,"Nimesh, Mehta, Fernando",Maths,Yes,4.6
+860,Aman Sharma,Yes,No,66.15,73.42,55.56,"['Football', 'Cricket']",Cooking,Yes,Female,"Pooja, Rao, Mithun",English,No,3.9
+861,Sejal Singh,Yes,Yes,56.34,66.84,74.54,"['Netball', 'Volleyball']",Photography,Yes,Female,"Amara, Anushka, Sneha",Maths,No,3.3
+862,Simran Patel,No,No,55.32,78.16,56.35,['Tennis'],Reading,No,Male,Kavya,Science,No,4.1
+863,Kavita Desai,Yes,Yes,64.15,76.45,55.76,"['Tennis', 'Volleyball']",Playing guitar,Yes,Male,"Sneha, Priyanka, Verma",History,No,2.7
+864,Sneha Ariyarathna,No,Yes,74.35,69.85,68.34,['Tennis'],Reading,Yes,Male,"Singh, Gamage, Patel",Art,No,3
+865,Kunal Verma,No,No,73.04,82.94,60.32,['Basketball'],Reading,No,Male,"Rana, Kunal, Amara",Art,Yes,2.8
+866,Priyanka Mehta,No,Yes,55.79,70.76,62.53,['Tennis'],Reading,No,Male,"Simran, Mehta",Art,No,4.7
+867,Reena Mehta,Yes,Yes,70.97,80.55,65.85,"['Tennis', 'Volleyball']",Cooking,No,Male,Raj,English,No,4.4
+868,Dev Kapoor,Yes,No,74.52,83.58,68.29,"['Rugby', 'Tennis']",Painting,Yes,Female,"Dasun, Perera, Shreya",Maths,No,4.4
+869,Vinay Mehta,Yes,No,57.44,68.93,57.42,"['Rugby', 'Tennis']",Painting,No,Female,Silva,Maths,Yes,3.5
+870,Sunil Patel,No,Yes,74.9,76.64,64.77,"['Tennis', 'Basketball']",Playing guitar,No,Female,"Kapoor, Mehta",History,Yes,2.8
+871,Kavya Ariyarathna,Yes,No,57.55,75.08,51.75,"['Basketball', 'Football']",Music,Yes,Male,"Kularatne, Karan, Sharma",Science,Yes,2.6
+872,Rhea Patel,No,No,73.26,83.19,61.88,['Rugby'],Cooking,No,Male,"Arun, Rajesh, Manish",Science,Yes,4.4
+873,Gaurav Desai,No,No,74.49,75.97,64.5,['Football'],Painting,Yes,Female,"Kapoor, Sharma",Science,No,5
+874,Rohan Nair,Yes,No,62.52,66.07,62.49,"['Cricket', 'Volleyball']",Music,Yes,Female,"Sneha, Singh, Kapoor",Science,No,2.9
+875,Naveen Desai,No,Yes,68.56,74.5,68.9,['Volleyball'],Cooking,Yes,Female,"Shreya, Priya, Kavya",Maths,Yes,2.6
+876,Rohit Sharma,No,No,55.95,81.52,57.81,['Football'],Writing,Yes,Female,"Manish, Reena, Desai",Art,Yes,3
+877,Naveen Sharma,Yes,Yes,71.84,77.74,68.76,"['Cricket', 'Volleyball']",Gardening,No,Female,Anil,Maths,No,4.1
+878,Rajesh Rao,No,Yes,67.66,78.53,69.07,"['Football', 'Netball']",Dancing,Yes,Male,"Sunil, Arjun",History,Yes,4.7
+879,Kasun Desai,No,Yes,57.72,84.16,68.7,"['Cricket', 'Basketball']",Dancing,Yes,Female,Verma,Maths,No,4.4
+880,Ananya Silva,Yes,Yes,69.03,81.03,56.28,"['Swimming', 'Volleyball']",Painting,No,Female,"Kaur, Aakash, Patel",English,Yes,4.7
+881,Rajesh Sharma,No,Yes,64.02,69.31,55.85,"['Basketball', 'Swimming']",Painting,No,Male,"Desai, Anushka, Das",History,Yes,4
+882,Rajesh Singh,Yes,No,62.6,76.73,65.61,['Tennis'],Photography,No,Female,"Priyanka, Rhea",Maths,Yes,3.8
+883,Naveen Singh,Yes,No,57.72,73.35,56.9,['Rugby'],Dancing,Yes,Male,"Arjun, Sharma",History,Yes,4
+884,Rajesh Fernando,No,Yes,55.44,82.33,71.83,['Netball'],Painting,No,Male,Rao,Maths,Yes,2.9
+885,Naveen Sharma,No,Yes,68.61,83.24,73.41,['Basketball'],Reading,No,Female,Patel,Art,Yes,4.9
+886,Anjali Ariyarathna,No,No,70.16,76.61,74.09,"['Football', 'Volleyball']",Writing,No,Male,"Kavya, Sanjana, Singh",Maths,Yes,4.4
+887,Dasun Verma,Yes,No,67.36,71.73,62.24,"['Rugby', 'Netball']",Reading,Yes,Male,"Kularatne, Anil, Singh",Art,Yes,3.7
+888,Neha Kapoor,Yes,Yes,61.3,70.43,59,['Netball'],Cooking,No,Male,Vikas,English,No,4.8
+889,Ananya Sharma,No,Yes,58.44,68.64,69.14,['Rugby'],Writing,Yes,Male,"Kapoor, Mithun",History,No,4.7
+890,Dasun Patel,Yes,Yes,55.81,71.58,71.78,['Tennis'],Photography,No,Female,"Singh, Aditya, Dasun",Maths,No,4.2
+891,Ananya Kapoor,Yes,Yes,63.99,69.75,66.38,"['Basketball', 'Netball']",Cooking,Yes,Female,"Singh, Shruti, Patel",English,Yes,2.7
+892,Anjali Sharma,No,Yes,52.63,67.87,56.65,"['Basketball', 'Netball']",Gardening,Yes,Female,"Gamage, Verma",Science,No,3.3
+893,Rohan Raj,Yes,Yes,56.58,74.28,64.67,['Football'],Dancing,No,Female,"Mehta, Desai",Maths,No,5
+894,Naveen Mehta,No,No,64.91,83.35,74.62,"['Rugby', 'Basketball']",Dancing,Yes,Male,Patel,Maths,Yes,4.7
+895,Reena Mehta,Yes,Yes,53.29,83.18,64.9,"['Swimming', 'Cricket']",Reading,No,Male,Patel,Art,No,4.2
+896,Ananya Rana,Yes,No,62.64,80.46,55.53,['Cricket'],Writing,No,Female,"Singh, Riya, Mithun",Maths,No,2.6
+897,Priyanka Verma,No,No,62.01,82.19,61.37,"['Swimming', 'Tennis']",Playing guitar,Yes,Male,Desai,Art,Yes,3.6
+898,Naveen Kapoor,No,No,52.63,79.49,60.49,['Swimming'],Cooking,Yes,Male,"Sneha, Singh, Sharma",Science,No,4.8
+899,Priya Rao,No,Yes,68.98,83.91,65.6,"['Volleyball', 'Tennis']",Photography,Yes,Female,"Singh, Patel",Science,Yes,4.6
+900,Rohan Patel,Yes,No,71.64,76.99,68.63,"['Volleyball', 'Swimming']",Gardening,No,Female,Mehta,History,Yes,3.2
+901,Priyanka Mehta,Yes,Yes,71.41,82.22,65.31,['Tennis'],Gardening,No,Male,"Sharma, Kunal",Maths,No,4.3
+902,Rohan Verma,No,No,51.77,70.63,54.03,['Basketball'],Writing,Yes,Male,Sanjana,English,Yes,2.7
+903,Sejal Raj,No,Yes,56.99,84.71,61.51,"['Football', 'Swimming']",Playing guitar,No,Female,Kunal,Science,No,3.1
+904,Rohan Sharma,No,No,52.2,74.71,58.09,"['Tennis', 'Rugby']",Music,Yes,Female,"Desai, Gamage",Art,No,2.9
+905,Rhea Singh,Yes,No,67.94,83.1,62.02,"['Basketball', 'Netball']",Photography,Yes,Male,Mehta,History,Yes,3
+906,Shreya Patel,Yes,Yes,50.22,69.48,72.26,['Cricket'],Painting,Yes,Male,Mehta,Maths,No,4.1
+907,Arjun Mehta,Yes,Yes,55.39,84.42,71.58,"['Volleyball', 'Tennis']",Writing,Yes,Female,"Desai, Sharma",English,No,3.1
+908,Mithun Patel,Yes,No,72.06,83.23,67.55,"['Cricket', 'Rugby']",Music,No,Female,Sharma,English,Yes,3.1
+909,Sanjana Silva,No,Yes,62.42,71.48,69.6,['Swimming'],Reading,Yes,Female,Kapoor,Maths,Yes,4.5
+910,Kavita Desai,No,No,52.92,75.22,68.56,['Swimming'],Playing guitar,Yes,Male,"Arjun, Silva, Reena",English,No,2.7
+911,Aditya Patel,No,Yes,68.64,69.41,72.97,['Rugby'],Reading,Yes,Female,Aakash,Maths,No,4
+912,Rhea Singh,No,Yes,64.2,80.27,60.53,['Rugby'],Painting,Yes,Male,Arun,Science,No,3
+913,Priya Kularatne,Yes,Yes,51.09,72.9,74.65,['Football'],Dancing,No,Male,Nair,History,No,3
+914,Nalini Singh,No,Yes,54.62,83.02,68.46,"['Tennis', 'Cricket']",Writing,No,Female,"Mehta, Priyanka",Art,Yes,3.7
+915,Aditya Rana,No,Yes,58.11,72.12,52.98,['Tennis'],Music,No,Female,"Fernando, Gaurav",Science,Yes,2.8
+916,Sejal Sharma,No,Yes,60.08,76.55,64.4,"['Rugby', 'Swimming']",Playing guitar,Yes,Female,"Mehta, Rhea",Science,No,2.7
+917,Nalini Raj,No,Yes,70.9,67.01,66.81,"['Tennis', 'Cricket']",Dancing,No,Male,"Mehta, Shruti",English,No,3.3
+918,Manish Singh,No,Yes,68.5,82.37,54.23,"['Netball', 'Cricket']",Photography,No,Female,"Kapoor, Sharma, Neha",English,Yes,2.6
+919,Aditya Kularatne,Yes,Yes,51.97,79.2,67.42,"['Swimming', 'Netball']",Playing guitar,No,Male,"Rahul, Aakash, Vikas",History,Yes,4.5
+920,Aditya Rao,Yes,No,61.83,66.51,71.07,"['Basketball', 'Netball']",Playing guitar,Yes,Female,Vinay,English,Yes,3.1
+921,Aditya Sharma,No,Yes,53.17,76.99,52.77,"['Basketball', 'Rugby']",Cooking,No,Female,"Manish, Nair",Science,Yes,5
+922,Shreya Desai,Yes,No,56.78,72.73,55.37,['Basketball'],Cooking,No,Female,"Nalini, Patel, Mehta",English,No,4.2
+923,Rhea Singh,Yes,No,52.36,84.92,59.67,"['Rugby', 'Swimming']",Playing guitar,No,Female,Verma,Science,Yes,4.6
+924,Aman Sharma,No,Yes,52.39,75,67.77,"['Tennis', 'Basketball']",Playing guitar,No,Male,Mehta,Art,No,2.8
+925,Sunil Perera,Yes,No,55.35,67.95,73.38,"['Volleyball', 'Tennis']",Photography,No,Male,"Rao, Vikas, Reena",Maths,Yes,2.9
+926,Rahul Das,Yes,No,66.66,77.6,63.12,['Basketball'],Reading,Yes,Female,Sharma,English,No,2.9
+927,Shruti Patel,No,Yes,70.37,80.57,54.01,"['Volleyball', 'Tennis']",Reading,Yes,Female,"Kavita, Shruti",Art,No,4.9
+928,Reena Nair,Yes,No,66.66,81.83,57.55,"['Rugby', 'Cricket']",Gardening,Yes,Male,"Raj, Sharma",Art,No,2.8
+929,Reena Rao,No,No,66.19,74.98,54.66,"['Swimming', 'Volleyball']",Painting,Yes,Female,"Mehta, Riya, Kunal",Maths,No,4.9
+930,Vikas Kapoor,Yes,No,65.57,78.54,69.54,"['Tennis', 'Football']",Painting,Yes,Female,Priya,Art,No,3.2
+931,Shreya Kapoor,Yes,Yes,66.46,71.72,54.26,['Tennis'],Playing guitar,No,Female,"Kaur, Sharma",History,Yes,2.6
+932,Neha Raj,No,Yes,52.21,72.87,70.21,['Basketball'],Dancing,No,Male,Rhea,Art,Yes,3.9
+933,Karan Raj,No,Yes,74.83,73.21,67.1,"['Football', 'Volleyball']",Music,No,Male,Simran,History,No,5
+934,Kunal Kapoor,Yes,Yes,61.68,80.47,54.47,['Rugby'],Painting,No,Male,"Kapoor, Kapoor",English,Yes,4.6
+935,Reena Mehta,Yes,No,62.4,78.24,69.77,"['Rugby', 'Tennis']",Writing,Yes,Female,Sejal,History,Yes,3.1
+936,Kavita Verma,No,No,62.66,72.73,54.75,['Rugby'],Playing guitar,Yes,Female,Mohit,Science,Yes,4.6
+937,Kunal Patel,No,No,65.91,80.88,59.39,"['Football', 'Rugby']",Music,No,Male,Shreya,Maths,No,3.2
+938,Rahul Sharma,Yes,Yes,67.22,75.89,51.3,['Basketball'],Music,No,Male,"Singh, Anushka, Kasun",Maths,No,4.4
+939,Anushka Desai,Yes,No,58.68,75.27,63.7,"['Cricket', 'Basketball']",Music,No,Male,Vikas,Science,Yes,4
+940,Arjun Singh,No,Yes,61.35,73.42,69.91,"['Football', 'Swimming']",Music,Yes,Female,Verma,History,Yes,3.5
+941,Aditya Kapoor,Yes,No,68.46,81.22,62.08,['Rugby'],Writing,Yes,Male,"Mehta, Neha",Art,No,4
+942,Riya Sharma,No,Yes,60.62,71.73,50.54,"['Netball', 'Rugby']",Gardening,No,Male,"Silva, Vikram",Art,No,4.8
+943,Anushka Mehta,Yes,Yes,58.21,84.68,73.71,['Football'],Playing guitar,Yes,Male,"Kularatne, Aakash",Science,No,4.6
+944,Sanjana Gamage,No,No,50.3,84.22,61.83,"['Netball', 'Volleyball']",Reading,Yes,Male,"Aman, Das, Sejal",Art,No,3.7
+945,Nimesh Singh,No,Yes,63.09,82.67,65.2,"['Swimming', 'Football']",Photography,No,Female,"Dasun, Singh",English,No,4.9
+946,Kavya Kapoor,No,Yes,73.5,82.88,53.54,['Tennis'],Music,Yes,Male,"Rajesh, Vikram",Art,Yes,3
+947,Sejal Desai,No,Yes,72.41,83.61,59.7,['Swimming'],Painting,Yes,Female,"Riya, Vinay, Anil",History,Yes,3
+948,Rhea Patel,No,Yes,62.42,65.39,51.84,['Volleyball'],Painting,Yes,Male,"Mehta, Rahul, Dev",History,Yes,3.8
+949,Anushka Verma,No,Yes,66.08,66.34,50.25,"['Netball', 'Volleyball']",Music,No,Female,"Reena, Mehta, Rohan",Art,No,3.2
+950,Dasun Mehta,No,Yes,69.09,72.57,58.42,"['Volleyball', 'Rugby']",Dancing,No,Female,"Mohit, Singh, Gamage",History,Yes,3.3
+951,Priyanka Silva,Yes,No,74.22,82.41,69.23,"['Tennis', 'Swimming']",Painting,No,Male,Nalini,Science,Yes,2.7
+952,Pooja Mehta,Yes,Yes,72.23,66.86,61.03,['Rugby'],Painting,No,Male,"Rahul, Dasun",English,No,3
+953,Nalini Mehta,No,No,51.7,72.76,70.46,"['Basketball', 'Netball']",Playing guitar,Yes,Female,"Neha, Sejal",History,Yes,3.5
+954,Aditya Singh,Yes,Yes,73.35,72.84,65.87,['Football'],Photography,No,Female,"Patel, Raj, Rajesh",English,Yes,2.9
+955,Naveen Rana,No,Yes,59.4,66.06,74.11,"['Tennis', 'Swimming']",Photography,Yes,Female,Anjali,Science,No,4
+956,Mohit Patel,No,No,52.26,77.78,73.78,"['Volleyball', 'Swimming']",Painting,No,Male,Das,Art,No,4
+957,Mithun Patel,Yes,Yes,57.38,79.91,59.27,['Swimming'],Cooking,No,Male,Kavita,Art,No,2.6
+958,Anil Desai,Yes,Yes,65.27,81.07,60.91,"['Basketball', 'Rugby']",Photography,No,Male,"Raj, Mehta, Kapoor",Maths,Yes,4.2
+959,Reena Patel,Yes,Yes,59.7,80.75,59.02,"['Swimming', 'Rugby']",Playing guitar,Yes,Female,"Singh, Anil",Art,Yes,3.8
+960,Riya Kapoor,No,No,53.15,83.15,65.99,"['Basketball', 'Volleyball']",Playing guitar,Yes,Female,"Kapoor, Patel",English,No,3.8
+961,Rajesh Sharma,Yes,No,52.57,65.42,57.86,['Tennis'],Gardening,No,Female,"Manish, Priyanka",Science,Yes,4.4
+962,Sanjana Patel,Yes,No,66.24,82.84,61.95,"['Netball', 'Volleyball']",Music,No,Female,"Gamage, Anushka",Science,No,4.6
+963,Dev Sharma,Yes,No,71.6,78.23,65.54,['Football'],Painting,No,Female,Amara,Art,No,3.2
+964,Aman Ariyarathna,Yes,Yes,67.41,74.92,55.21,"['Volleyball', 'Football']",Dancing,Yes,Male,"Sanjana, Desai, Rahul",Science,No,3.9
+965,Kavita Raj,No,Yes,50.98,69.57,68.99,['Volleyball'],Cooking,Yes,Female,"Sejal, Rao, Priya",Science,No,4.7
+966,Dev Desai,No,Yes,57.27,83.22,74.78,"['Netball', 'Tennis']",Dancing,No,Female,Gaurav,Maths,Yes,4.8
+967,Nalini Ariyarathna,Yes,No,69.99,78.71,74.42,"['Volleyball', 'Cricket']",Dancing,No,Male,"Anil, Raj",Science,Yes,4.3
+968,Rohan Perera,Yes,No,56.92,65.35,50.54,['Netball'],Gardening,Yes,Female,Ariyarathna,Science,No,2.8
+969,Kasun Raj,Yes,No,57.77,78.72,50.09,"['Tennis', 'Basketball']",Cooking,No,Female,Patel,Maths,Yes,4.8
+970,Priyanka Kaur,No,Yes,70.69,67.61,58.72,"['Volleyball', 'Cricket']",Reading,Yes,Male,"Rohan, Rohit, Aman",Art,No,2.5
+971,Priyanka Verma,Yes,Yes,71.83,65.68,59.46,['Football'],Reading,No,Male,"Fernando, Rhea, Singh",Maths,Yes,2.8
+972,Rahul Patel,No,No,69.94,81.56,53.95,['Netball'],Music,Yes,Male,"Kapoor, Sejal, Verma",Maths,Yes,3.7
+973,Aman Kapoor,No,No,72.97,67.47,55.36,"['Basketball', 'Cricket']",Photography,No,Male,"Singh, Aakash",Science,No,3.3
+974,Kavita Mehta,No,No,60.53,66.87,66.2,['Cricket'],Music,No,Male,"Vikram, Rao",Art,No,3.7
+975,Riya Fernando,No,No,69.25,65.15,55.57,['Football'],Music,No,Male,"Sunil, Kaur",Maths,Yes,3.1
+976,Pooja Perera,No,Yes,61.2,76.92,71.39,['Basketball'],Playing guitar,Yes,Female,"Sharma, Kapoor",Maths,Yes,4.1
+977,Mohit Mehta,No,Yes,73.93,75.71,58.32,"['Netball', 'Cricket']",Playing guitar,No,Female,"Perera, Patel",History,No,3.1
+978,Anjali Mehta,No,Yes,59.32,76.68,58.02,"['Tennis', 'Cricket']",Reading,Yes,Male,"Verma, Das, Vinay",English,Yes,4
+979,Sanjana Patel,Yes,No,62.74,84.37,57.43,['Cricket'],Reading,Yes,Female,Sharma,Science,Yes,4.5
+980,Aakash Sharma,No,Yes,62.78,79.66,66.57,['Tennis'],Writing,No,Female,Mohit,English,Yes,4.2
+981,Anil Patel,Yes,No,55.41,65.7,62.53,"['Football', 'Basketball']",Music,Yes,Male,Rohan,History,Yes,4.5
+982,Riya Patel,Yes,No,54.39,77,61.89,"['Volleyball', 'Tennis']",Cooking,Yes,Male,"Arjun, Nimesh, Simran",History,Yes,4
+983,Shruti Rao,No,Yes,63.67,67.49,53.86,"['Rugby', 'Volleyball']",Painting,Yes,Female,"Sharma, Kularatne, Sharma",English,Yes,4.2
+984,Rohan Singh,No,Yes,73.14,74.38,74.82,"['Swimming', 'Basketball']",Playing guitar,No,Male,"Perera, Kapoor, Sharma",Maths,Yes,3.3
+985,Vinay Singh,No,Yes,68.82,73.63,68.7,['Rugby'],Music,No,Male,"Mohit, Aditya",History,No,4.2
+986,Rohan Raj,No,Yes,60.45,65.08,61.37,"['Cricket', 'Netball']",Dancing,Yes,Male,"Kunal, Priyanka, Nimesh",English,No,2.6
+987,Nalini Kapoor,No,No,68.63,83.38,72.51,['Netball'],Playing guitar,Yes,Female,"Neha, Rahul",Maths,Yes,3.7
+988,Reena Raj,Yes,Yes,60.96,72.01,50.02,"['Rugby', 'Netball']",Photography,No,Male,"Raj, Mehta, Mithun",English,Yes,4
+989,Sanjana Patel,Yes,No,62.61,67.06,65.36,"['Swimming', 'Basketball']",Dancing,Yes,Male,Desai,Science,Yes,2.5
+990,Nalini Mehta,No,Yes,60.58,78.67,67.08,"['Cricket', 'Football']",Cooking,No,Female,"Fernando, Gaurav, Singh",History,Yes,3.3
+991,Pooja Gamage,Yes,No,71.34,69.15,62.89,"['Volleyball', 'Rugby']",Photography,Yes,Female,"Mehta, Singh",Art,Yes,4.1
+992,Sneha Kapoor,No,Yes,68.29,74.89,69.61,"['Volleyball', 'Rugby']",Photography,Yes,Male,"Rohan, Kapoor",English,Yes,2.9
+993,Aditya Sharma,Yes,No,70.98,83.37,55.2,"['Football', 'Swimming']",Music,No,Male,"Rohan, Neha",Art,Yes,2.7
+994,Karan Desai,Yes,No,51.83,83.73,69.52,"['Netball', 'Cricket']",Cooking,No,Male,"Singh, Kunal",Science,No,2.9
+995,Karan Mehta,Yes,Yes,56.28,79.93,67.38,"['Netball', 'Basketball']",Gardening,No,Female,Riya,History,Yes,3.9
+996,Arun Patel,No,Yes,68.36,84.94,71.2,"['Rugby', 'Cricket']",Painting,No,Female,"Rahul, Aman",Maths,No,4.4
+997,Vikas Kapoor,No,No,64.09,71.15,51.92,['Rugby'],Gardening,Yes,Male,Arjun,History,No,4.8
+998,Aakash Gamage,No,No,64.72,84.98,51.27,['Football'],Playing guitar,Yes,Female,Mithun,History,No,4
+999,Aditya Patel,No,Yes,55.76,74.28,72.26,['Cricket'],Playing guitar,Yes,Male,Sneha,Science,Yes,4
+1000,Shreya Raj,No,Yes,52.57,69.37,70.69,['Basketball'],Cooking,No,Male,Sharma,History,No,3.9
